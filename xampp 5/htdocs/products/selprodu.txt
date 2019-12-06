@@ -1,0 +1,80 @@
+echo $form->input('product_list',array('value' => $products_list,'type' => 'select', 'options' => $products_list, 'id'=>'products_lists', 'div'=>false,'error'=>false, 'label' => false, 'onchange'=>'javascript:selectProduct(this.id)'));
+				//echo $form->hidden('data', array('onkeyup'=>'return validatechar(this);')); ?>
+				<input type="button" value="Add" class="close-btn" onClick="javascript:addProduct();"></td>
+
+
+
+
+
+				foreach ($product_list as $product_list) {
+					 $id = $product_list['Product']['id'];
+					 $product_name = $product_list['Product']['product_name'];
+				echo $form->input('product_list.'.$id,array('type' => 'checkbox', 'id'=>'products_lists[]', 'div'=>false,'error'=>false, 'label' => $product_name)); 
+				//echo $form->hidden('data', array('onkeyup'=>'return validatechar(this);'));
+				}
+
+
+foreach($this->data['product_list'] as $key=>$value) 
+		{
+			//pr($key);
+			//pr($value);exit;
+			if($value==1)
+			{
+				  $client['Client']['client_name']=$this->data['product_list'][$key];
+				  $client['Client']['created_date']= $this->CreatedDate(); 
+				  $client['Client']['created_by']  =  $this->CreatedBy();
+				  $this->Client->create();
+				  if(!!$this->Client->save($client))
+				  {
+					$this->set('success_message','Client Data Has Saved');
+					$this->data=array();
+					$this->render('/elements/message');   
+				  }
+				  else
+				  {
+					$this->set('error_message','Client Data Not Saved');
+				  }
+			}
+		}
+
+
+ foreach($this->data['product_list'] as $key=>$value) 
+		{
+			//pr($key);
+			//pr($value);exit;
+			if($value==1)
+			{
+				  $client['Product_Client']['product_id']=$this->data['product_list'][$key];
+				  $client['Product_Client']['client_id']=$last_inserted_id;
+				  $client['Product_Client']['created_date']= $this->CreatedDate(); 
+				  $client['Product_Client']['created_by']  =  $this->CreatedBy();
+				  pr($client); exit;
+				  $this->Client->create();
+				  if(!!$this->Client->save($client))
+				  {
+					$this->set('success_message','Product_Client Data Has Saved');
+					$this->data=array();
+					$this->render('/elements/message');   
+				  }
+				  else
+				  {
+					$this->set('error_message','Product_Client Data Not Saved');
+				  }
+			}
+		} 
+
+
+if(!empty($this->data))
+		{
+		pr('hi'); exit;
+		 /*
+		$client_id = $this->data[$this->params['pass'][0]]['client_id'];
+		$this->set('modelName',$this->params['pass'][0]);
+		if(!empty($client_id))
+		$this->set('products',$this->Product->get_Products_list($client_id));
+		else
+			$this->set('products','');
+			*/
+		}
+		
+	}

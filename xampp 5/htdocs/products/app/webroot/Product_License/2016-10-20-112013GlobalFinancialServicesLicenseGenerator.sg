@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SGProject dateLastEncode="24.09.2015 15:03:13">
+    <Advanced onlyNewEncode="false" CommandLineOptions="">
+        <ASPTag enable="false"/>
+        <CustomHeader></CustomHeader>
+        <CustomLicense></CustomLicense>
+        <DontIntegrate enable="false"/>
+        <Error Stop="true" Report="true" ReportDeprecated="true"/>
+        <ErrorNotFound></ErrorNotFound>
+        <EvalCompatibility enable="false"/>
+        <KeepFileDate enable="false"/>
+        <PHPTag enable="true"/>
+        <Project Key="f3b3adce3750f24a5700" ID="f9c379118146fa46ebb3"/>
+    </Advanced>
+    <DestinationFolder val="C:\Users\giritharan.KGFSL\Desktop\GFS Voiztrail Encypted\"/>
+    <Lock>
+        <ExpirationDate enable="true" date="2016-10-14"/>
+        <ExpirationDays enable="false" val=""/>
+        <ExternalLicense enable="true" file="license"/>
+        <OneDomain enable="false"/>
+        <OneIP enable="false"/>
+        <OnlineOnly enable="false"/>
+        <OtherEncoded enable="false"/>
+        <TimeServerCheck enable="false"/>
+        <IPList/>
+        <DomainList/>
+        <MacList/>
+        <NTPList>
+            <Server Domain="pool.ntp.org"/>
+        </NTPList>
+        <ConstList/>
+        <ErrorList/>
+    </Lock>
+    <fieldWidth Encode="100" File="551" Date="100"/>
+    <php V54="true" V55="false" V56="false" V50="false" V40="false" V52="false" V53="true"/>
+    <Files/>
+</SGProject>

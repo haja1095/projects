@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SGProject dateLastEncode="22.06.2016 12:44:31">
+    <Advanced onlyNewEncode="false" CommandLineOptions="">
+        <ASPTag enable="false"/>
+        <CustomHeader></CustomHeader>
+        <CustomLicense></CustomLicense>
+        <DontIntegrate enable="false"/>
+        <Error Stop="true" Report="true" ReportDeprecated="true"/>
+        <ErrorNotFound></ErrorNotFound>
+        <EvalCompatibility enable="false"/>
+        <KeepFileDate enable="false"/>
+        <PHPTag enable="true"/>
+        <Project Key="90cc34adba54bb9f7a27" ID="2b83efba349364ad024d"/>
+    </Advanced>
+    <DestinationFolder val="D:\Encryption and Decryption\ARI\Encrypted\ARI_22JUN2016\"/>
+    <Lock>
+        <ExpirationDate enable="true" date="2016-08-05"/>
+        <ExpirationDays enable="false" val=""/>
+        <ExternalLicense enable="true" file="license"/>
+        <OneDomain enable="false"/>
+        <OneIP enable="false"/>
+        <OnlineOnly enable="false"/>
+        <OtherEncoded enable="false"/>
+        <TimeServerCheck enable="false"/>
+        <IPList/>
+        <DomainList/>
+        <MacList/>
+        <NTPList>
+            <Server Domain="pool.ntp.org"/>
+        </NTPList>
+        <ConstList/>
+        <ErrorList/>
+    </Lock>
+    <fieldWidth Encode="100" File="551" Date="100"/>
+    <php V54="true" V55="false" V56="false" V50="false" V40="false" V52="false" V53="true"/>
+    <Files>
+        <Directory fullPath="D:/Encryption and Decryption/ARI/Src/ARI_22JUN2016/VoizTrail" newName="VoizTrail" typeEncoding="-1" dateReal="6/22/2016 12:43:19 PM" date="22.06.2016 12:44:31">
+            <File fullPath="D:/Encryption and Decryption/ARI/Src/ARI_22JUN2016/VoizTrail/index.php" newName="index.php" typeEncoding="1" dateReal="6/22/2016 12:42:25 PM" date="22.06.2016 12:44:31"/>
+        </Directory>
+    </Files>
+</SGProject>

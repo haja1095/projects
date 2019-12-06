@@ -1,0 +1,336 @@
+1
+0:00:00 --> 0:00:05
+Downloaded from ccSubs.com
+
+2
+00:00:00 --> 00:00:05
+hi this is alex from PHP academy&#39; dog
+and this is a PHP video tutorial for the
+
+3
+00:00:05 --> 00:00:10
+new boston now in this video I&#39;m simply
+going to talk to you about what PHP is
+
+4
+00:00:10 --> 00:00:16
+and why you should use it and a little
+bit of information about what websites
+
+5
+00:00:16 --> 00:00:17
+do you use it
+
+6
+00:00:17 --> 00:00:21
+so the first thing about PHP is what it
+stands for PHP stands for hypertext
+
+7
+00:00:21 --> 00:00:25
+preprocessor in fact the first p is p
+
+8
+00:00:25 --> 00:00:29
+so it&#39;s PHP hypertext preprocessor
+that&#39;s what it stands for
+
+9
+00:00:29 --> 00:00:33
+so we&#39;ve got to a recursive acronym
+because we have an acronym inside of
+
+10
+00:00:33 --> 00:00:38
+them inside another acronym because of
+it originally PHP stood for personal
+
+11
+00:00:38 --> 00:00:43
+home page is now being changed to stand
+for PHP hypertext preprocessor with the
+
+12
+00:00:43 --> 00:00:47
+PHP inside of that still standing for
+personal homepage
+
+13
+00:00:47 --> 00:00:54
+so what is PHP and why should we use it
+what PHP is a server-side scripting
+
+14
+00:00:54 --> 00:00:54
+language
+
+15
+00:00:54 --> 00:01:00
+now when you open up a here PHP file and
+you type in the code and it&#39;s not
+
+16
+00:01:00 --> 00:01:04
+available to view by the user of the
+website they cannot right click and see
+
+17
+00:01:04 --> 00:01:04
+your code
+
+18
+00:01:04 --> 00:01:11
+so it&#39;s not like HTML with HTML being a
+markup language is interpreted by the
+
+19
+00:01:11 --> 00:01:16
+browser now PHP and the code inside of
+it is interpreted by the web server and
+
+20
+00:01:16 --> 00:01:21
+compiled server side and then the output
+of the of the application if you like is
+
+21
+00:01:21 --> 00:01:24
+displayed in HTML if we choose to do so
+
+22
+00:01:24 --> 00:01:32
+so it&#39;s basically used to create dynamic
+content on web sites so we&#39;re not with
+
+23
+00:01:32 --> 00:01:37
+we were essentially creating a program
+within a website so we&#39;ll bring it being
+
+24
+00:01:37 --> 00:01:39
+able to do a variety of different things
+
+25
+00:01:39 --> 00:01:44
+let&#39;s head over to the PHP official
+website which is php.net so if you need
+
+26
+00:01:44 --> 00:01:47
+any more information i&#39;m just giving you
+a bright brief in
+
+27
+00:01:47 --> 00:01:53
+overview here go over to php.net and you
+can read some information about PHP as
+
+28
+00:01:53 --> 00:01:58
+well as music etc etc etc so when we&#39;ve
+got a little description about hear
+
+29
+00:01:58 --> 00:02:03
+about what is PHP and we&#39;ve got an
+introduction introductory tutorial now
+
+30
+00:02:03 --> 00:02:06
+the great thing about PHP is while
+you&#39;re developing it has a really
+
+31
+00:02:06 --> 00:02:11
+extensive documentation to it and this
+is called the manuals we&#39;ve got a link
+
+32
+00:02:11 --> 00:02:17
+it to the manual and basically we&#39;ve got
+an an online manual for lots of
+
+33
+00:02:17 --> 00:02:22
+different languages and you can also
+download the doc download documentation
+
+34
+00:02:22 --> 00:02:26
+as well and what the manual do is we can
+search in here for say function next
+
+35
+00:02:26 --> 00:02:30
+for example we might search for F open
+in the functions left and we see now it
+
+36
+00:02:30 --> 00:02:30
+returns
+
+37
+00:02:30 --> 00:02:33
+I some information about our function so
+we can now go down and look at the
+
+38
+00:02:33 --> 00:02:35
+different parameters of the arguments it
+takes
+
+39
+00:02:35 --> 00:02:39
+we can also look at some examples down
+here so it&#39;s a really extensive list you
+
+40
+00:02:39 --> 00:02:44
+can save user submitted and examples as
+well so you can get a really great feel
+
+41
+00:02:44 --> 00:02:49
+of different functions and not just
+functions but everything inside PHP from
+
+42
+00:02:49 --> 00:02:50
+this PHP manual
+
+43
+00:02:50 --> 00:02:55
+so what kind of websites use PHP and why
+do they use it on Facebook for example
+
+44
+00:02:55 --> 00:02:59
+use PHP what we&#39;re doing is with with
+facebook is a social networking website
+
+45
+00:02:59 --> 00:03:01
+they&#39;re storing lots of data in a
+database
+
+46
+00:03:01 --> 00:03:05
+so what we can do with PHP is we combine
+PHP with a database system and we
+
+47
+00:03:05 --> 00:03:09
+typically do this with mysql and
+inserting them in the two tourists I
+
+48
+00:03:09 --> 00:03:14
+create I use mysql and my skewers one of
+the widely is used and powerful and
+
+49
+00:03:14 --> 00:03:16
+fastest databases around
+
+50
+00:03:16 --> 00:03:19
+so when my skewers great to use with pH
+pay for storing data
+
+51
+00:03:19 --> 00:03:23
+so Facebook is one of the social
+networking websites that takes advantage
+
+52
+00:03:23 --> 00:03:30
+of PHP as a whole as it&#39;s a really
+really nice language to work with a lot
+
+53
+00:03:30 --> 00:03:35
+of the syntax and structure similar to
+see and it sent it actually interpreted
+
+54
+00:03:35 --> 00:03:38
+by C server side as well I think it&#39;s
+COC
+
+55
+00:03:38 --> 00:03:42
+you yeah probably see but you can
+obviously prove me wrong like if you
+
+56
+00:03:42 --> 00:03:43
+like a home
+
+57
+00:03:43 --> 00:03:47
+I may be wrong but yeah this is a brief
+overview overview of PHP so if you&#39;re
+
+58
+00:03:47 --> 00:03:49
+thinking about getting started dinner
+
+59
+00:03:49 --> 00:03:54
+follow the tutorial is I&#39;ve created and
+you can begin to start creating dynamic
+
+60
+00:03:54 --> 00:03:58
+websites and you actually start to
+realize how easy PHP is the fundamentals
+
+61
+00:03:58 --> 00:04:02
+of it anyway we can start going in to
+solve the object oriented programming
+
+62
+00:04:02 --> 00:04:06
+side of PHP which is slightly more
+difficult because some people struggle
+
+63
+00:04:06 --> 00:04:10
+with object-oriented programming so we
+do have the object oriented programming
+
+64
+00:04:10 --> 00:04:17
+functionality within PHP and this was
+added from PHP version 5 I believe in
+
+65
+00:04:17 --> 00:04:22
+about two thousand four so we can use
+object oriented programming inside PHP
+
+66
+00:04:22 --> 00:04:30
+as well as recursive sorry not recursive
+and procedural programming as well so
+
+67
+00:04:30 --> 00:04:33
+it&#39;s procedural structure to our code
+
+68
+00:04:33 --> 00:04:37
+so that&#39;s a brief overview overview of
+PHP and its really really great language
+
+69
+00:04:37 --> 00:04:40
+to learn and its really really widely
+used on the web today so it&#39;s definitely
+
+70
+00:04:40 --> 00:04:41
+worth it
+

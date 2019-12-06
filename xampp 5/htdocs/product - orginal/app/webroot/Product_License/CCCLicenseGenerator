@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SGProject dateLastEncode="06.11.2015 19:06:45">
+    <Advanced onlyNewEncode="false" CommandLineOptions="">
+        <ASPTag enable="false"/>
+        <CustomHeader></CustomHeader>
+        <CustomLicense></CustomLicense>
+        <DontIntegrate enable="false"/>
+        <Error Stop="true" Report="true" ReportDeprecated="true"/>
+        <ErrorNotFound></ErrorNotFound>
+        <EvalCompatibility enable="false"/>
+        <KeepFileDate enable="false"/>
+        <PHPTag enable="true"/>
+        <Project Key="258076af428fa2798ce8" ID="b0aef497ccd1cee8bf41"/>
+    </Advanced>
+    <DestinationFolder val="C:\Users\giritharan.KGFSL\Documents\Encrypted_New\CCC\"/>
+    <Lock>
+        <ExpirationDate enable="true" date="2016-11-20"/>
+        <ExpirationDays enable="false" val=""/>
+        <ExternalLicense enable="true" file="license"/>
+        <OneDomain enable="false"/>
+        <OneIP enable="false"/>
+        <OnlineOnly enable="false"/>
+        <OtherEncoded enable="false"/>
+        <TimeServerCheck enable="false"/>
+        <IPList/>
+        <DomainList/>
+        <MacList/>
+        <NTPList>
+            <Server Domain="pool.ntp.org"/>
+        </NTPList>
+        <ConstList/>
+        <ErrorList/>
+    </Lock>
+    <fieldWidth Encode="100" File="551" Date="100"/>
+    <php V54="true" V55="false" V56="false" V50="false" V40="false" V52="false" V53="true"/>
+    <Files>
+        <Directory fullPath="C:/Users/giritharan.KGFSL/Desktop/VoizTrail_V_2.0" newName="VoizTrail_V_2.0" typeEncoding="-1" dateReal="11/6/2015 7:00:08 PM" date="06.11.2015 19:06:45">
+            <Directory fullPath="C:/Users/giritharan.KGFSL/Desktop/VoizTrail_V_2.0/cdrdrivers" newName="cdrdrivers" typeEncoding="-1" dateReal="11/6/2015 7:00:08 PM" date="06.11.2015 19:06:45">
+                <Directory fullPath="C:/Users/giritharan.KGFSL/Desktop/VoizTrail_V_2.0/cdrdrivers/dialer_component" newName="dialer_component" typeEncoding="-1" dateReal="11/6/2015 7:00:08 PM" date="06.11.2015 19:06:45">
+                    <File fullPath="C:/Users/giritharan.KGFSL/Desktop/VoizTrail_V_2.0/cdrdrivers/dialer_component/dialeragentlog.php" newName="dialeragentlog.php" typeEncoding="1" dateReal="11/6/2015 6:58:51 PM" date="06.11.2015 19:06:45"/>
+                </Directory>
+            </Directory>
+            <Directory fullPath="C:/Users/giritharan.KGFSL/Desktop/VoizTrail_V_2.0/protected" newName="protected" typeEncoding="-1" dateReal="11/6/2015 7:00:08 PM" date="06.11.2015 19:06:45">
+                <Directory fullPath="C:/Users/giritharan.KGFSL/Desktop/VoizTrail_V_2.0/protected/config" newName="config" typeEncoding="-1" dateReal="11/6/2015 7:00:08 PM" date="06.11.2015 19:06:45">
+                    <File fullPath="C:/Users/giritharan.KGFSL/Desktop/VoizTrail_V_2.0/protected/config/params.php" newName="params.php" typeEncoding="1" dateReal="11/6/2015 6:58:51 PM" date="06.11.2015 19:06:45"/>
+                </Directory>
+                <Directory fullPath="C:/Users/giritharan.KGFSL/Desktop/VoizTrail_V_2.0/protected/messages" newName="messages" typeEncoding="-1" dateReal="11/6/2015 7:00:08 PM" date="06.11.2015 19:06:45">
+                    <Directory fullPath="C:/Users/giritharan.KGFSL/Desktop/VoizTrail_V_2.0/protected/messages/en" newName="en" typeEncoding="-1" dateReal="11/6/2015 7:00:08 PM" date="06.11.2015 19:06:45">
+                        <File fullPath="C:/Users/giritharan.KGFSL/Desktop/VoizTrail_V_2.0/protected/messages/en/ui.php" newName="ui.php" typeEncoding="1" dateReal="11/6/2015 6:58:51 PM" date="06.11.2015 19:06:45"/>
+                    </Directory>
+                </Directory>
+                <Directory fullPath="C:/Users/giritharan.KGFSL/Desktop/VoizTrail_V_2.0/protected/models" newName="models" typeEncoding="-1" dateReal="11/6/2015 7:00:08 PM" date="06.11.2015 19:06:45">
+                    <File fullPath="C:/Users/giritharan.KGFSL/Desktop/VoizTrail_V_2.0/protected/models/AgentScoreCard.php" newName="AgentScoreCard.php" typeEncoding="1" dateReal="11/6/2015 6:58:51 PM" date="06.11.2015 19:06:45"/>
+                    <File fullPath="C:/Users/giritharan.KGFSL/Desktop/VoizTrail_V_2.0/protected/models/LeadLog.php" newName="LeadLog.php" typeEncoding="1" dateReal="11/6/2015 6:58:51 PM" date="06.11.2015 19:06:45"/>
+                </Directory>
+                <Directory fullPath="C:/Users/giritharan.KGFSL/Desktop/VoizTrail_V_2.0/protected/views" newName="views" typeEncoding="-1" dateReal="11/6/2015 7:00:08 PM" date="06.11.2015 19:06:45">
+                    <Directory fullPath="C:/Users/giritharan.KGFSL/Desktop/VoizTrail_V_2.0/protected/views/cdrReportTemplate" newName="cdrReportTemplate" typeEncoding="-1" dateReal="11/6/2015 7:00:08 PM" date="06.11.2015 19:06:45">
+                        <File fullPath="C:/Users/giritharan.KGFSL/Desktop/VoizTrail_V_2.0/protected/views/cdrReportTemplate/agent_score_pdfReport.php" newName="agent_score_pdfReport.php" typeEncoding="1" dateReal="11/6/2015 6:58:51 PM" date="06.11.2015 19:06:45"/>
+                    </Directory>
+                    <Directory fullPath="C:/Users/giritharan.KGFSL/Desktop/VoizTrail_V_2.0/protected/views/dialerdashboard" newName="dialerdashboard" typeEncoding="-1" dateReal="11/6/2015 7:00:08 PM" date="06.11.2015 19:06:45">
+                        <File fullPath="C:/Users/giritharan.KGFSL/Desktop/VoizTrail_V_2.0/protected/views/dialerdashboard/campaign_activity.php" newName="campaign_activity.php" typeEncoding="1" dateReal="11/6/2015 6:58:51 PM" date="06.11.2015 19:06:45"/>
+                        <File fullPath="C:/Users/giritharan.KGFSL/Desktop/VoizTrail_V_2.0/protected/views/dialerdashboard/custom.php" newName="custom.php" typeEncoding="1" dateReal="11/6/2015 6:58:51 PM" date="06.11.2015 19:06:45"/>
+                        <File fullPath="C:/Users/giritharan.KGFSL/Desktop/VoizTrail_V_2.0/protected/views/dialerdashboard/daily.php" newName="daily.php" typeEncoding="1" dateReal="11/6/2015 6:58:51 PM" date="06.11.2015 19:06:45"/>
+                        <File fullPath="C:/Users/giritharan.KGFSL/Desktop/VoizTrail_V_2.0/protected/views/dialerdashboard/dialer_activity_grid.php" newName="dialer_activity_grid.php" typeEncoding="1" dateReal="11/6/2015 6:58:51 PM" date="06.11.2015 19:06:45"/>
+                        <File fullPath="C:/Users/giritharan.KGFSL/Desktop/VoizTrail_V_2.0/protected/views/dialerdashboard/monthly.php" newName="monthly.php" typeEncoding="1" dateReal="11/6/2015 6:58:51 PM" date="06.11.2015 19:06:45"/>
+                        <File fullPath="C:/Users/giritharan.KGFSL/Desktop/VoizTrail_V_2.0/protected/views/dialerdashboard/quarterly.php" newName="quarterly.php" typeEncoding="1" dateReal="11/6/2015 6:58:51 PM" date="06.11.2015 19:06:45"/>
+                        <File fullPath="C:/Users/giritharan.KGFSL/Desktop/VoizTrail_V_2.0/protected/views/dialerdashboard/weekly.php" newName="weekly.php" typeEncoding="1" dateReal="11/6/2015 6:58:51 PM" date="06.11.2015 19:06:45"/>
+                        <File fullPath="C:/Users/giritharan.KGFSL/Desktop/VoizTrail_V_2.0/protected/views/dialerdashboard/yearly.php" newName="yearly.php" typeEncoding="1" dateReal="11/6/2015 6:58:51 PM" date="06.11.2015 19:06:45"/>
+                    </Directory>
+                </Directory>
+            </Directory>
+        </Directory>
+    </Files>
+</SGProject>

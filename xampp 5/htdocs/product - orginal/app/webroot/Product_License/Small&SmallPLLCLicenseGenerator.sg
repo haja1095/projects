@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SGProject dateLastEncode="17.05.2016 14:30:36">
+    <Advanced onlyNewEncode="false" CommandLineOptions="">
+        <ASPTag enable="false"/>
+        <CustomHeader></CustomHeader>
+        <CustomLicense></CustomLicense>
+        <DontIntegrate enable="false"/>
+        <Error Stop="true" Report="true" ReportDeprecated="true"/>
+        <ErrorNotFound></ErrorNotFound>
+        <EvalCompatibility enable="false"/>
+        <KeepFileDate enable="false"/>
+        <PHPTag enable="true"/>
+        <Project Key="4dbd8b5bb55798ded8b2" ID="2c3a894087b383e11145"/>
+    </Advanced>
+    <DestinationFolder val="D:/Encryption and Decryption/Small &amp; Small PLLC/Enc"/>
+    <Lock>
+        <ExpirationDate enable="true" date="2016-05-17"/>
+        <ExpirationDays enable="false" val=""/>
+        <ExternalLicense enable="true" file="license"/>
+        <OneDomain enable="false"/>
+        <OneIP enable="false"/>
+        <OnlineOnly enable="false"/>
+        <OtherEncoded enable="false"/>
+        <TimeServerCheck enable="false"/>
+        <IPList/>
+        <DomainList/>
+        <MacList/>
+        <NTPList>
+            <Server Domain="pool.ntp.org"/>
+        </NTPList>
+        <ConstList/>
+        <ErrorList/>
+    </Lock>
+    <fieldWidth Encode="100" File="551" Date="100"/>
+    <php V54="true" V55="false" V56="false" V50="false" V40="false" V52="false" V53="true"/>
+    <Files/>
+</SGProject>

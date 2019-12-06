@@ -1,0 +1,904 @@
+2015-07-23 12:21:04 Warning: Warning (512): Controller::paginate() - can't find model Task in controller ProductTestsController in [E:\xampp\htdocs\product_test\cake\libs\controller\controller.php, line 1102]
+2015-07-23 12:21:04 Warning: Warning (512): Controller::paginate() - can't find model Task in controller ProductTestsController in [E:\xampp\htdocs\product_test\cake\libs\controller\controller.php, line 1102]
+2015-07-23 12:21:56 Warning: Warning (512): Controller::paginate() - can't find model Task in controller ProductTestsController in [E:\xampp\htdocs\product_test\cake\libs\controller\controller.php, line 1102]
+2015-07-23 12:22:08 Warning: Warning (512): Controller::paginate() - can't find model Task in controller ProductTestsController in [E:\xampp\htdocs\product_test\cake\libs\controller\controller.php, line 1102]
+2015-07-23 12:22:52 Warning: Warning (512): Controller::paginate() - can't find model Task in controller ProductTestsController in [E:\xampp\htdocs\product_test\cake\libs\controller\controller.php, line 1102]
+2015-07-23 12:24:46 Warning: Warning (512): Controller::paginate() - can't find model Task in controller ProductTestsController in [E:\xampp\htdocs\product_test\cake\libs\controller\controller.php, line 1102]
+2015-07-23 12:26:05 Warning: Warning (512): Controller::paginate() - can't find model Task in controller ProductTestsController in [E:\xampp\htdocs\product_test\cake\libs\controller\controller.php, line 1102]
+2015-07-23 12:29:38 Warning: Warning (512): Controller::paginate() - can't find model Task in controller ProductTestsController in [E:\xampp\htdocs\product_test\cake\libs\controller\controller.php, line 1102]
+2015-07-23 12:45:19 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 194]
+2015-07-23 12:45:19 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 378]
+2015-07-23 12:45:55 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 194]
+2015-07-23 12:45:55 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 378]
+2015-07-23 12:46:23 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 194]
+2015-07-23 12:46:23 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 378]
+2015-07-23 12:46:40 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 194]
+2015-07-23 12:46:40 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 378]
+2015-07-23 12:47:26 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 194]
+2015-07-23 12:47:26 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 378]
+2015-07-23 16:31:14 Warning: Warning (2): explode() expects parameter 2 to be string, array given in [E:\xampp\htdocs\product_test\cake\libs\view\helper.php, line 415]
+2015-07-23 16:31:14 Warning: Warning (2): array_values() expects parameter 1 to be array, boolean given in [E:\xampp\htdocs\product_test\cake\libs\view\helper.php, line 415]
+2015-07-23 16:31:14 Warning: Warning (2): explode() expects parameter 2 to be string, array given in [E:\xampp\htdocs\product_test\cake\libs\view\view.php, line 638]
+2015-07-23 16:31:14 Warning: Warning (2): array_shift() expects parameter 1 to be array, boolean given in [E:\xampp\htdocs\product_test\cake\libs\view\helper.php, line 616]
+2015-07-23 16:31:14 Warning: Warning (2): array_map() [<a href='http://php.net/function.array-map'>function.array-map</a>]: Argument #2 should be an array in [E:\xampp\htdocs\product_test\cake\libs\view\helper.php, line 617]
+2015-07-23 16:31:14 Warning: Warning (2): join() [<a href='http://php.net/function.join'>function.join</a>]: Invalid arguments passed in [E:\xampp\htdocs\product_test\cake\libs\view\helper.php, line 617]
+2015-07-23 16:31:14 Warning: Warning (2): strpos() expects parameter 1 to be string, array given in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\form.php, line 578]
+2015-07-23 16:31:14 Warning: Warning (2): explode() expects parameter 2 to be string, array given in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\form.php, line 579]
+2015-07-23 16:31:14 Warning: Warning (2): array_pop() expects parameter 1 to be array, null given in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\form.php, line 579]
+2015-07-23 16:31:14 Warning: Warning (2): implode() [<a href='http://php.net/function.implode'>function.implode</a>]: Invalid arguments passed in [E:\xampp\htdocs\product_test\cake\libs\view\helper.php, line 662]
+2015-07-23 18:16:56 Warning: Warning (2): Invalid argument supplied for foreach() in [E:\xampp\htdocs\product_test\app\views\clients\index.ctp, line 113]
+2015-07-23 19:04:13 Warning: Warning (4096): Object of class FormHelper could not be converted to string in [E:\xampp\htdocs\product_test\app\views\products\index.ctp, line 75]
+2015-07-24 10:22:25 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'created_by' cannot be null</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-24 11:36:25 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 194]
+2015-07-24 11:36:25 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 378]
+2015-07-24 11:37:38 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 194]
+2015-07-24 11:37:38 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 378]
+2015-07-24 11:38:10 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 194]
+2015-07-24 11:38:10 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 378]
+2015-07-24 11:38:11 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 194]
+2015-07-24 11:38:11 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 378]
+2015-07-24 11:38:44 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 194]
+2015-07-24 11:38:44 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 378]
+2015-07-24 11:38:51 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 194]
+2015-07-24 11:38:51 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 378]
+2015-07-24 11:40:10 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 194]
+2015-07-24 11:40:10 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 378]
+2015-07-24 11:41:37 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 194]
+2015-07-24 11:41:37 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 378]
+2015-07-24 11:44:12 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 194]
+2015-07-24 11:44:12 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 378]
+2015-07-24 11:45:51 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 194]
+2015-07-24 11:45:51 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 378]
+2015-07-24 11:46:17 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 194]
+2015-07-24 11:46:17 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 378]
+2015-07-24 11:47:36 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 194]
+2015-07-24 11:47:36 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 378]
+2015-07-24 11:48:54 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 194]
+2015-07-24 11:48:54 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 378]
+2015-07-24 11:49:29 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 194]
+2015-07-24 11:49:29 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 378]
+2015-07-24 11:49:30 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 194]
+2015-07-24 11:49:30 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 378]
+2015-07-24 11:51:17 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 194]
+2015-07-24 11:51:17 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 378]
+2015-07-24 11:55:39 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 194]
+2015-07-24 11:55:39 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 378]
+2015-07-24 11:56:22 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 194]
+2015-07-24 11:56:22 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 378]
+2015-07-24 12:34:34 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 194]
+2015-07-24 12:34:34 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 378]
+2015-07-24 12:41:07 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 194]
+2015-07-24 12:41:07 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 378]
+2015-07-24 12:41:08 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 194]
+2015-07-24 12:41:08 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #1 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\paginator.php, line 378]
+2015-07-24 14:18:12 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'checkUsability' at line 1</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-24 14:22:01 Warning: Warning (512): Could not find validation handler checkUnique for product_name in [E:\xampp\htdocs\product_test\cake\libs\model\model.php, line 2644]
+2015-07-24 17:44:24 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'created_by' cannot be null</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-24 18:14:52 Warning: Warning (2): Invalid argument supplied for foreach() in [E:\xampp\htdocs\product_test\app\views\elements\clients\index_pagging.ctp, line 30]
+2015-07-24 18:52:51 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'created_by' cannot be null</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-24 19:09:05 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClientRelease.is_deleted' in 'where clause'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-24 19:09:05 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClientRelease.is_deleted' in 'where clause'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-27 09:13:57 Warning: Warning (512): Method FormHelper::date does not exist in [E:\xampp\htdocs\product_test\cake\libs\view\helper.php, line 154]
+2015-07-27 09:24:52 Warning: Warning (2): trim() expects parameter 1 to be string, array given in [E:\xampp\htdocs\product_test\app\controllers\product_client_releases_controller.php, line 50]
+2015-07-27 09:24:52 Warning: Warning (2): trim() expects parameter 1 to be string, array given in [E:\xampp\htdocs\product_test\app\controllers\product_client_releases_controller.php, line 55]
+2015-07-27 09:27:41 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Product.product_name' in 'where clause'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-27 09:29:40 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Product.is_deleted' in 'where clause'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-27 09:55:16 Warning: Warning (2): trim() expects parameter 1 to be string, array given in [E:\xampp\htdocs\product_test\app\controllers\product_client_releases_controller.php, line 110]
+2015-07-27 09:55:16 Warning: Warning (2): trim() expects parameter 1 to be string, array given in [E:\xampp\htdocs\product_test\app\controllers\product_client_releases_controller.php, line 116]
+2015-07-27 12:04:34 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClientRelease.product_name' in 'field list'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-27 12:05:00 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClientRelease.product_name' in 'field list'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-27 12:06:18 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClientRelease.product_name' in 'field list'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-27 12:06:45 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClientRelease.product_name' in 'field list'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-27 12:07:27 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Product.product_id' in 'field list'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-27 12:07:36 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Product.id' in 'field list'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-27 14:01:39 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'getClientList' at line 1</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-27 14:01:41 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'getClientList' at line 1</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-27 14:09:33 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #3 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\form.php, line 747]
+2015-07-27 14:09:48 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #3 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\form.php, line 747]
+2015-07-27 14:10:48 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #3 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\form.php, line 747]
+2015-07-27 14:53:37 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClientLicense.is_deleted' in 'where clause'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-27 14:53:38 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClientLicense.is_deleted' in 'where clause'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-27 14:54:23 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClientLicenses.license_key' in 'order clause'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-27 14:56:05 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClientLicenses.license_key' in 'order clause'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-27 15:01:01 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClientLicenses.license_key' in 'order clause'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-27 15:01:16 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClientLicenses.license_key' in 'order clause'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-27 15:01:27 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClientLicenses.license_key' in 'order clause'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-27 15:03:19 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClientLicenses.license_key' in 'order clause'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-27 15:10:36 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClientLicenses.license_key' in 'order clause'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-27 15:11:56 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClientLicenses.license_key' in 'order clause'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-27 15:12:40 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClientLicenses.license_key' in 'order clause'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-27 15:13:02 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClientLicenses.license_key' in 'order clause'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-27 15:15:27 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'created_by' cannot be null</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-28 17:58:10 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Client.client_name' in 'order clause'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-28 17:58:10 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Client.client_name' in 'order clause'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-28 18:08:32 Warning: Warning (512): Method FormHelper::check does not exist in [E:\xampp\htdocs\product_test\cake\libs\view\helper.php, line 154]
+2015-07-28 18:17:15 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #3 is not an array in [E:\xampp\htdocs\product_test\cake\libs\view\helpers\form.php, line 747]
+2015-07-29 10:25:08 Warning: Warning (2): Invalid argument supplied for foreach() in [E:\xampp\htdocs\product_test\app\views\clients\add_client.ctp, line 29]
+2015-07-29 12:15:03 Warning: Warning (2): Invalid argument supplied for foreach() in [E:\xampp\htdocs\product_test\app\views\clients\add_client.ctp, line 30]
+2015-07-29 13:00:08 Warning: Warning (2): Invalid argument supplied for foreach() in [E:\xampp\htdocs\product_test\app\controllers\clients_controller.php, line 75]
+2015-07-29 13:58:31 Warning: Warning (2): Invalid argument supplied for foreach() in [E:\xampp\htdocs\product_test\app\controllers\clients_controller.php, line 75]
+2015-07-29 14:05:41 Warning: Warning (2): Invalid argument supplied for foreach() in [E:\xampp\htdocs\product_test\app\controllers\clients_controller.php, line 75]
+2015-07-29 14:31:58 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'created_by' cannot be null</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-30 12:55:52 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Product.id' in 'field list'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-30 12:59:33 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Product.id' in 'field list'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-30 13:50:03 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClient.client_id' in 'where clause'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-30 13:52:28 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClient.client_id' in 'where clause'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-30 13:56:32 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClient.client_id' in 'where clause'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-30 13:56:35 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClient.client_id' in 'where clause'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-30 13:57:50 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClient.client_id' in 'where clause'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-30 13:59:41 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClient.client_id' in 'where clause'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-30 14:02:29 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClient.client_id' in 'where clause'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-30 14:50:55 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClient.client_id' in 'where clause'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-30 14:51:04 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClient.client_id' in 'where clause'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-30 14:51:30 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClient.client_id' in 'where clause'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-30 15:40:56 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClient.client_id' in 'where clause'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-30 15:42:34 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'get_Products_list' at line 1</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-30 15:43:20 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'get_Products_list' at line 1</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-30 15:44:07 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'get_Products_list' at line 1</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-30 15:45:18 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Product.id' in 'field list'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-30 15:47:42 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Product.id' in 'field list'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-30 15:48:25 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Product.id' in 'field list'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-30 16:08:29 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClient.is_deleted' in 'where clause'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-30 16:08:29 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClient.is_deleted' in 'where clause'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-30 16:08:38 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClient.is_deleted' in 'where clause'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-30 16:09:45 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClient.is_deleted' in 'where clause'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-30 16:09:47 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClient.is_deleted' in 'where clause'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-30 16:10:51 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClient.is_deleted' in 'where clause'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-30 16:10:53 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClient.is_deleted' in 'where clause'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-30 16:10:58 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClient.is_deleted' in 'where clause'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-30 16:13:43 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClient.is_deleted' in 'where clause'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-30 16:13:44 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClient.is_deleted' in 'where clause'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-30 16:13:45 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClient.is_deleted' in 'where clause'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-30 16:13:45 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClient.is_deleted' in 'where clause'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-30 16:13:45 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClient.is_deleted' in 'where clause'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-30 16:13:45 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClient.is_deleted' in 'where clause'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-30 16:13:46 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClient.is_deleted' in 'where clause'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-30 16:13:46 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClient.is_deleted' in 'where clause'</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-30 16:27:16 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'product_id' cannot be null</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-30 16:28:49 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'product_id' cannot be null</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-30 16:46:17 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'product_id' cannot be null</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-30 17:27:06 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'product_id' cannot be null</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-30 17:28:31 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'product_id' cannot be null</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-30 17:29:38 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'product_id' cannot be null</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-30 17:42:54 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'product_id' cannot be null</span> in [E:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-31 09:43:23 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'product_id' cannot be null</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-31 09:51:14 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'product_id' cannot be null</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-31 09:58:17 Warning: Warning (2): Invalid argument supplied for foreach() in [D:\xampp\htdocs\product_test\app\views\clients\edit.ctp, line 61]
+2015-07-31 09:58:46 Warning: Warning (2): Invalid argument supplied for foreach() in [D:\xampp\htdocs\product_test\app\views\clients\edit.ctp, line 61]
+2015-07-31 09:59:08 Warning: Warning (2): Invalid argument supplied for foreach() in [D:\xampp\htdocs\product_test\app\views\clients\edit.ctp, line 61]
+2015-07-31 11:38:59 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'Product.id' in 'field list'</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-31 14:47:36 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClient.client_id' in 'where clause'</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-31 16:08:22 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1048: Column 'created_by' cannot be null</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-31 17:45:44 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClientRelease.release_id' in 'on clause'</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-07-31 19:17:52 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'release_name from release_modes rl left join product_client_releases pcr on pcr.' at line 1</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-03 15:00:31 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #3 is not an array in [D:\xampp\htdocs\product_test\cake\libs\view\helpers\form.php, line 747]
+2015-08-04 11:04:46 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'ProductClientRelease.client_name' in 'where clause'</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-04 11:05:59 Warning: Warning (4096): Object of class Client could not be converted to string in [D:\xampp\htdocs\product_test\app\controllers\product_client_releases_controller.php, line 96]
+2015-08-04 11:05:59 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') like 'sa%' AND `ProductClientRelease`.`status`=1' at line 1</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-04 11:05:59 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') like 'sa%' AND `ProductClientRelease`.`status`=1   ORDER BY `ProductClientRele' at line 1</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-04 11:06:05 Warning: Warning (4096): Object of class Client could not be converted to string in [D:\xampp\htdocs\product_test\app\controllers\product_client_releases_controller.php, line 96]
+2015-08-04 11:06:06 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') like 's%' AND `ProductClientRelease`.`status`=1' at line 1</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-04 11:06:06 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') like 's%' AND `ProductClientRelease`.`status`=1   ORDER BY `ProductClientRelea' at line 1</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-04 15:30:58 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  value &quot;9599599959&quot; is out of range for type integer
+LINE 1: ...ted_by&quot;) VALUES ('1', '0', 'test1', 'coimbatore', '959959995...
+                                                             ^ in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-04 15:30:58 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  value "9599599959" is out of range for type integer
+LINE 1: ...ted_by") VALUES ('1', '0', 'test1', 'coimbatore', '959959995...
+                                                             ^</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-04 15:44:43 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  operator does not exist: character = integer
+LINE 1: ...de&quot; ON (&quot;ProductClientRelease&quot;.&quot;release_location&quot; = &quot;Release...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts. in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-04 15:44:43 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  operator does not exist: character = integer
+LINE 1: ...de" ON ("ProductClientRelease"."release_location" = "Release...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts.</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-04 15:44:43 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  operator does not exist: character = integer
+LINE 1: ...de&quot; ON (&quot;ProductClientRelease&quot;.&quot;release_location&quot; = &quot;Release...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts. in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-04 15:44:43 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  operator does not exist: character = integer
+LINE 1: ...de" ON ("ProductClientRelease"."release_location" = "Release...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts.</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-04 15:47:52 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  operator does not exist: character = integer
+LINE 1: ...de&quot; ON (&quot;ProductClientRelease&quot;.&quot;release_location&quot; = &quot;Release...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts. in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-04 15:47:52 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  operator does not exist: character = integer
+LINE 1: ...de" ON ("ProductClientRelease"."release_location" = "Release...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts.</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-04 15:47:53 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  operator does not exist: character = integer
+LINE 1: ...de&quot; ON (&quot;ProductClientRelease&quot;.&quot;release_location&quot; = &quot;Release...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts. in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-04 15:47:53 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  operator does not exist: character = integer
+LINE 1: ...de" ON ("ProductClientRelease"."release_location" = "Release...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts.</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-04 15:48:40 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  operator does not exist: character = integer
+LINE 1: ...de&quot; ON (&quot;ProductClientRelease&quot;.&quot;release_location&quot; = &quot;Release...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts. in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-04 15:48:40 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  operator does not exist: character = integer
+LINE 1: ...de" ON ("ProductClientRelease"."release_location" = "Release...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts.</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-04 15:50:14 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  operator does not exist: character = integer
+LINE 1: ...de&quot; ON (&quot;ProductClientRelease&quot;.&quot;release_location&quot; = &quot;Release...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts. in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-04 15:50:14 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  operator does not exist: character = integer
+LINE 1: ...de" ON ("ProductClientRelease"."release_location" = "Release...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts.</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-04 15:50:14 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  operator does not exist: character = integer
+LINE 1: ...de&quot; ON (&quot;ProductClientRelease&quot;.&quot;release_location&quot; = &quot;Release...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts. in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-04 15:50:14 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  operator does not exist: character = integer
+LINE 1: ...de" ON ("ProductClientRelease"."release_location" = "Release...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts.</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-04 15:50:14 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  operator does not exist: character = integer
+LINE 1: ...de&quot; ON (&quot;ProductClientRelease&quot;.&quot;release_location&quot; = &quot;Release...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts. in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-04 15:50:14 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  operator does not exist: character = integer
+LINE 1: ...de" ON ("ProductClientRelease"."release_location" = "Release...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts.</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-04 15:50:14 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  operator does not exist: character = integer
+LINE 1: ...de&quot; ON (&quot;ProductClientRelease&quot;.&quot;release_location&quot; = &quot;Release...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts. in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-04 15:50:14 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  operator does not exist: character = integer
+LINE 1: ...de" ON ("ProductClientRelease"."release_location" = "Release...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts.</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-04 15:50:15 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  operator does not exist: character = integer
+LINE 1: ...de&quot; ON (&quot;ProductClientRelease&quot;.&quot;release_location&quot; = &quot;Release...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts. in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-04 15:50:15 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  operator does not exist: character = integer
+LINE 1: ...de" ON ("ProductClientRelease"."release_location" = "Release...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts.</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-04 15:51:59 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  invalid input value for enum license_type: &quot;1&quot;
+LINE 1: ... VALUES ('1', '0', '100', '1', '1', '2015-08-01', '1', '2015...
+                                                             ^ in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-04 15:51:59 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  invalid input value for enum license_type: "1"
+LINE 1: ... VALUES ('1', '0', '100', '1', '1', '2015-08-01', '1', '2015...
+                                                             ^</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-04 15:53:00 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  operator does not exist: character = integer
+LINE 1: ...de&quot; ON (&quot;ProductClientRelease&quot;.&quot;release_location&quot; = &quot;Release...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts. in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-04 15:53:00 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  operator does not exist: character = integer
+LINE 1: ...de" ON ("ProductClientRelease"."release_location" = "Release...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts.</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-04 15:58:20 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  operator does not exist: character = integer
+LINE 1: ...de&quot; ON (&quot;ProductClientRelease&quot;.&quot;release_location&quot; = &quot;Release...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts. in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-04 15:58:20 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  operator does not exist: character = integer
+LINE 1: ...de" ON ("ProductClientRelease"."release_location" = "Release...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts.</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-04 15:58:40 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  operator does not exist: character = integer
+LINE 1: ...roduct_client_releases pcr on pcr.release_location=rl.id whe...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts. in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-04 15:58:40 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  operator does not exist: character = integer
+LINE 1: ...roduct_client_releases pcr on pcr.release_location=rl.id whe...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts.</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-04 15:58:40 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  operator does not exist: character = integer
+LINE 1: ...de&quot; ON (&quot;ProductClientRelease&quot;.&quot;release_location&quot; = &quot;Release...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts. in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-04 15:58:40 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  operator does not exist: character = integer
+LINE 1: ...de" ON ("ProductClientRelease"."release_location" = "Release...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts.</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-04 15:58:41 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  operator does not exist: character = integer
+LINE 1: ...de&quot; ON (&quot;ProductClientRelease&quot;.&quot;release_location&quot; = &quot;Release...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts. in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-04 15:58:41 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  operator does not exist: character = integer
+LINE 1: ...de" ON ("ProductClientRelease"."release_location" = "Release...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts.</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-04 15:59:36 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  operator does not exist: character = integer
+LINE 1: ...de&quot; ON (&quot;ProductClientRelease&quot;.&quot;release_location&quot; = &quot;Release...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts. in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-04 15:59:36 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  operator does not exist: character = integer
+LINE 1: ...de" ON ("ProductClientRelease"."release_location" = "Release...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts.</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-04 15:59:49 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  operator does not exist: character = integer
+LINE 1: ...de&quot; ON (&quot;ProductClientRelease&quot;.&quot;release_location&quot; = &quot;Release...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts. in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-04 15:59:49 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  operator does not exist: character = integer
+LINE 1: ...de" ON ("ProductClientRelease"."release_location" = "Release...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts.</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-04 16:05:47 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  operator does not exist: character = integer
+LINE 1: ...de&quot; ON (&quot;ProductClientRelease&quot;.&quot;release_location&quot; = &quot;Release...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts. in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-04 16:05:47 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  operator does not exist: character = integer
+LINE 1: ...de" ON ("ProductClientRelease"."release_location" = "Release...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts.</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-04 16:06:57 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  operator does not exist: character varying = integer
+LINE 1: ...de&quot; ON (&quot;ProductClientRelease&quot;.&quot;release_location&quot; = &quot;Release...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts. in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-04 16:06:57 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  operator does not exist: character varying = integer
+LINE 1: ...de" ON ("ProductClientRelease"."release_location" = "Release...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts.</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-04 16:10:19 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  function lower(integer) does not exist
+LINE 1: ...&quot;.&quot;release_location&quot; = &quot;ReleaseMode&quot;.&quot;id&quot;)  WHERE lower(&quot;Pro...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts. in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-04 16:10:19 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  function lower(integer) does not exist
+LINE 1: ..."."release_location" = "ReleaseMode"."id")  WHERE lower("Pro...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-04 16:15:01 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  invalid input value for enum license_type: &quot;1&quot;
+LINE 1: ...VALUES ('1', '0', '1020', '1', '1', '2015-08-01', '1', '2015...
+                                                             ^ in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-04 16:15:01 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  invalid input value for enum license_type: "1"
+LINE 1: ...VALUES ('1', '0', '1020', '1', '1', '2015-08-01', '1', '2015...
+                                                             ^</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-04 16:17:05 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  invalid input value for enum license_type: &quot;1&quot;
+LINE 1: ...VALUES ('1', '0', '1212', '1', '1', '1970-01-01', '1', '2015...
+                                                             ^ in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-04 16:17:05 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  invalid input value for enum license_type: "1"
+LINE 1: ...VALUES ('1', '0', '1212', '1', '1', '1970-01-01', '1', '2015...
+                                                             ^</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-04 16:20:35 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  function lower(integer) does not exist
+LINE 1: ...AND lower(&quot;Client&quot;.&quot;client_name&quot;) like 'tes%' AND lower(&quot;Pro...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts. in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-04 16:20:35 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  function lower(integer) does not exist
+LINE 1: ...AND lower("Client"."client_name") like 'tes%' AND lower("Pro...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-04 16:22:21 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  operator does not exist: integer ~~ unknown
+LINE 1: ...eleted&quot;=0 AND &quot;ProductClientRelease&quot;.&quot;release_no&quot; like '2%' ...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts. in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-04 16:22:21 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  operator does not exist: integer ~~ unknown
+LINE 1: ...eleted"=0 AND "ProductClientRelease"."release_no" like '2%' ...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts.</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-04 16:22:52 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  operator does not exist: integer ~~ unknown
+LINE 1: ...eted&quot;=0 AND (&quot;ProductClientRelease&quot;.&quot;release_no&quot;) like '2%' ...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts. in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-04 16:22:52 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  operator does not exist: integer ~~ unknown
+LINE 1: ...eted"=0 AND ("ProductClientRelease"."release_no") like '2%' ...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts.</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-04 16:23:11 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  operator does not exist: integer ~~ unknown
+LINE 1: ...eted&quot;=0 AND (&quot;ProductClientRelease&quot;.&quot;release_no&quot;) like '%2%'...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts. in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-04 16:23:11 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  operator does not exist: integer ~~ unknown
+LINE 1: ...eted"=0 AND ("ProductClientRelease"."release_no") like '%2%'...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts.</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-04 16:25:27 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  invalid input syntax for integer: &quot;2%&quot;
+LINE 1: ...deleted&quot;=0 AND &quot;ProductClientRelease&quot;.&quot;release_no&quot; = '2%'   
+                                                                ^ in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-04 16:25:27 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  invalid input syntax for integer: "2%"
+LINE 1: ...deleted"=0 AND "ProductClientRelease"."release_no" = '2%'   
+                                                                ^</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-04 16:25:27 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  invalid input syntax for integer: &quot;2%&quot;
+LINE 1: ...eted&quot;=0 AND &quot;ProductClientRelease&quot;.&quot;release_no&quot; = '2%'   ORD...
+                                                             ^ in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-04 16:25:27 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  invalid input syntax for integer: "2%"
+LINE 1: ...eted"=0 AND "ProductClientRelease"."release_no" = '2%'   ORD...
+                                                             ^</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-06 09:30:35 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  column &quot;pcl.license_type&quot; must appear in the GROUP BY clause or be used in an aggregate function
+LINE 1: select pcl.license_type from product_client_licenses pcl whe...
+               ^ in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-06 09:30:35 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  column "pcl.license_type" must appear in the GROUP BY clause or be used in an aggregate function
+LINE 1: select pcl.license_type from product_client_licenses pcl whe...
+               ^</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-06 09:32:01 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  operator does not exist: character varying = integer
+LINE 1: ...oduct_id=1 and pcl.client_id=2 AND pcl.license_key=678678 AN...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts. in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-06 09:32:01 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  operator does not exist: character varying = integer
+LINE 1: ...oduct_id=1 and pcl.client_id=2 AND pcl.license_key=678678 AN...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts.</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-06 09:32:01 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  syntax error at or near &quot;create&quot;
+LINE 1: ...uct_id=1 and pcl.client_id=2 AND pcl.license_type=create AND...
+                                                             ^ in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-06 09:32:01 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  syntax error at or near "create"
+LINE 1: ...uct_id=1 and pcl.client_id=2 AND pcl.license_type=create AND...
+                                                             ^</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-06 09:37:03 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  operator does not exist: character varying = integer
+LINE 1: ...oduct_id=1 and pcl.client_id=2 AND pcl.license_key=1020 AND ...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts. in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-06 09:37:03 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  operator does not exist: character varying = integer
+LINE 1: ...oduct_id=1 and pcl.client_id=2 AND pcl.license_key=1020 AND ...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts.</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-06 09:37:03 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  syntax error at or near &quot;create&quot;
+LINE 1: ...uct_id=1 and pcl.client_id=2 AND pcl.license_type=create AND...
+                                                             ^ in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-06 09:37:03 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  syntax error at or near "create"
+LINE 1: ...uct_id=1 and pcl.client_id=2 AND pcl.license_type=create AND...
+                                                             ^</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-06 09:37:39 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  syntax error at or near &quot;y567&quot;
+LINE 1: ...id=1 and pcl.client_id=2 AND pcl.license_key=15456y567 AND p...
+                                                             ^ in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-06 09:37:39 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  syntax error at or near "y567"
+LINE 1: ...id=1 and pcl.client_id=2 AND pcl.license_key=15456y567 AND p...
+                                                             ^</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-06 09:37:39 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  syntax error at or near &quot;create&quot;
+LINE 1: ...uct_id=1 and pcl.client_id=2 AND pcl.license_type=create AND...
+                                                             ^ in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-06 09:37:39 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  syntax error at or near "create"
+LINE 1: ...uct_id=1 and pcl.client_id=2 AND pcl.license_type=create AND...
+                                                             ^</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-06 09:39:07 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  column &quot;wewrewr&quot; does not exist
+LINE 1: ...duct_id=1 and pcl.client_id=2 AND pcl.license_key=wewrewr AN...
+                                                             ^ in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-06 09:39:07 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  column "wewrewr" does not exist
+LINE 1: ...duct_id=1 and pcl.client_id=2 AND pcl.license_key=wewrewr AN...
+                                                             ^</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-06 09:39:07 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  syntax error at or near &quot;create&quot;
+LINE 1: ...uct_id=1 and pcl.client_id=2 AND pcl.license_type=create AND...
+                                                             ^ in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-06 09:39:07 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  syntax error at or near "create"
+LINE 1: ...uct_id=1 and pcl.client_id=2 AND pcl.license_type=create AND...
+                                                             ^</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-06 10:02:00 Warning: Warning (512): Could not find validation handler checkUniqueClient for product_id in [D:\xampp\htdocs\product_test\cake\libs\model\model.php, line 2644]
+2015-08-06 10:02:00 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  operator does not exist: character varying = integer
+LINE 1: ...oduct_id=1 and pcl.client_id=2 AND pcl.license_key=234234 AN...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts. in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-06 10:02:00 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  operator does not exist: character varying = integer
+LINE 1: ...oduct_id=1 and pcl.client_id=2 AND pcl.license_key=234234 AN...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts.</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-06 10:02:00 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  syntax error at or near &quot;create&quot;
+LINE 1: ...uct_id=1 and pcl.client_id=2 AND pcl.license_type=create AND...
+                                                             ^ in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-06 10:02:00 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  syntax error at or near "create"
+LINE 1: ...uct_id=1 and pcl.client_id=2 AND pcl.license_type=create AND...
+                                                             ^</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-06 10:05:33 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  operator does not exist: character varying = integer
+LINE 1: ...oduct_id=1 and pcl.client_id=2 AND pcl.license_key=45646 AND...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts. in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-06 10:05:33 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  operator does not exist: character varying = integer
+LINE 1: ...oduct_id=1 and pcl.client_id=2 AND pcl.license_key=45646 AND...
+                                                             ^
+HINT:  No operator matches the given name and argument type(s). You might need to add explicit type casts.</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-06 10:05:33 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  syntax error at or near &quot;create&quot;
+LINE 1: ...uct_id=1 and pcl.client_id=2 AND pcl.license_type=create AND...
+                                                             ^ in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-06 10:05:33 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  syntax error at or near "create"
+LINE 1: ...uct_id=1 and pcl.client_id=2 AND pcl.license_type=create AND...
+                                                             ^</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-06 10:07:46 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  syntax error at or near &quot;retert&quot;
+LINE 1: ..._id=1 and pcl.client_id=2 AND pcl.license_key=5675retert AND...
+                                                             ^ in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-06 10:07:46 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  syntax error at or near "retert"
+LINE 1: ..._id=1 and pcl.client_id=2 AND pcl.license_key=5675retert AND...
+                                                             ^</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-06 10:07:46 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  syntax error at or near &quot;create&quot;
+LINE 1: ...uct_id=1 and pcl.client_id=2 AND pcl.license_type=create AND...
+                                                             ^ in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-06 10:07:46 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  syntax error at or near "create"
+LINE 1: ...uct_id=1 and pcl.client_id=2 AND pcl.license_type=create AND...
+                                                             ^</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-06 10:08:51 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  syntax error at or near &quot;utyu&quot;
+LINE 1: ...ct_id=1 and pcl.client_id=2 AND pcl.license_key=67utyu AND p...
+                                                             ^ in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-06 10:08:51 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  syntax error at or near "utyu"
+LINE 1: ...ct_id=1 and pcl.client_id=2 AND pcl.license_key=67utyu AND p...
+                                                             ^</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-06 10:08:51 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  syntax error at or near &quot;create&quot;
+LINE 1: ...uct_id=1 and pcl.client_id=2 AND pcl.license_type=create AND...
+                                                             ^ in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-06 10:08:51 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  syntax error at or near "create"
+LINE 1: ...uct_id=1 and pcl.client_id=2 AND pcl.license_type=create AND...
+                                                             ^</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-06 10:10:00 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  syntax error at or near &quot;create&quot;
+LINE 1: ...uct_id=1 and pcl.client_id=2 AND pcl.license_type=create AND...
+                                                             ^ in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-06 10:10:00 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  syntax error at or near "create"
+LINE 1: ...uct_id=1 and pcl.client_id=2 AND pcl.license_type=create AND...
+                                                             ^</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-06 10:11:45 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  syntax error at or near &quot;create&quot;
+LINE 1: ...uct_id=1 and pcl.client_id=2 AND pcl.license_type=create AND...
+                                                             ^ in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-06 10:11:45 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  syntax error at or near "create"
+LINE 1: ...uct_id=1 and pcl.client_id=2 AND pcl.license_type=create AND...
+                                                             ^</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-06 10:12:31 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  syntax error at or near &quot;create&quot;
+LINE 1: ...uct_id=1 and pcl.client_id=2 AND pcl.license_type=create AND...
+                                                             ^ in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-06 10:12:31 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  syntax error at or near "create"
+LINE 1: ...uct_id=1 and pcl.client_id=2 AND pcl.license_type=create AND...
+                                                             ^</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-06 10:22:11 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  column pcl.licnese_type does not exist
+LINE 1: ...e' AND pcl.status=1 AND pcl.is_deleted=0 group by pcl.licnes...
+                                                             ^ in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-06 10:22:11 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  column pcl.licnese_type does not exist
+LINE 1: ...e' AND pcl.status=1 AND pcl.is_deleted=0 group by pcl.licnes...
+                                                             ^</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-06 11:55:40 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  invalid input syntax for integer: &quot;[object HTMLSelectElement]&quot;
+LINE 1: ...oduct&quot;.&quot;id&quot;)  WHERE &quot;ProductClient&quot;.&quot;client_id&quot; = '[object H...
+                                                             ^ in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-06 11:55:40 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  invalid input syntax for integer: "[object HTMLSelectElement]"
+LINE 1: ...oduct"."id")  WHERE "ProductClient"."client_id" = '[object H...
+                                                             ^</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-06 11:55:57 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  invalid input syntax for integer: &quot;[object HTMLSelectElement]&quot;
+LINE 1: ...oduct&quot;.&quot;id&quot;)  WHERE &quot;ProductClient&quot;.&quot;client_id&quot; = '[object H...
+                                                             ^ in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-06 11:55:57 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  invalid input syntax for integer: "[object HTMLSelectElement]"
+LINE 1: ...oduct"."id")  WHERE "ProductClient"."client_id" = '[object H...
+                                                             ^</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-06 11:56:08 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  invalid input syntax for integer: &quot;[object HTMLSelectElement]&quot;
+LINE 1: ...oduct&quot;.&quot;id&quot;)  WHERE &quot;ProductClient&quot;.&quot;client_id&quot; = '[object H...
+                                                             ^ in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-06 11:56:08 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  invalid input syntax for integer: "[object HTMLSelectElement]"
+LINE 1: ...oduct"."id")  WHERE "ProductClient"."client_id" = '[object H...
+                                                             ^</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-06 12:15:14 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #3 is not an array in [D:\xampp\htdocs\product_test\cake\libs\view\helpers\form.php, line 747]
+2015-08-06 12:25:56 Warning: Warning (2): explode() expects parameter 2 to be string, array given in [D:\xampp\htdocs\product_test\cake\libs\view\helper.php, line 415]
+2015-08-06 12:25:56 Warning: Warning (2): array_values() expects parameter 1 to be array, boolean given in [D:\xampp\htdocs\product_test\cake\libs\view\helper.php, line 415]
+2015-08-06 12:30:32 Warning: Warning (2): strtotime() expects parameter 1 to be string, array given in [D:\xampp\htdocs\product_test\app\controllers\product_client_licenses_controller.php, line 212]
+2015-08-06 12:30:32 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #3 is not an array in [D:\xampp\htdocs\product_test\cake\libs\view\helpers\form.php, line 747]
+2015-08-06 12:31:01 Warning: Warning (2): strtotime() expects parameter 1 to be string, array given in [D:\xampp\htdocs\product_test\app\controllers\product_client_licenses_controller.php, line 212]
+2015-08-06 12:31:01 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #3 is not an array in [D:\xampp\htdocs\product_test\cake\libs\view\helpers\form.php, line 747]
+2015-08-06 12:34:40 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #3 is not an array in [D:\xampp\htdocs\product_test\cake\libs\view\helpers\form.php, line 747]
+2015-08-06 12:36:46 Warning: Warning (2): array_merge() [<a href='http://php.net/function.array-merge'>function.array-merge</a>]: Argument #3 is not an array in [D:\xampp\htdocs\product_test\cake\libs\view\helpers\form.php, line 747]
+2015-08-06 14:06:05 Warning: Warning (2): Invalid argument supplied for foreach() in [D:\xampp\htdocs\product_test\app\views\product_client_licenses\client_product_based_expire_date.ctp, line 7]
+2015-08-06 14:07:06 Warning: Warning (2): Invalid argument supplied for foreach() in [D:\xampp\htdocs\product_test\app\controllers\product_client_licenses_controller.php, line 214]
+2015-08-06 14:07:42 Warning: Warning (2): Invalid argument supplied for foreach() in [D:\xampp\htdocs\product_test\app\controllers\product_client_licenses_controller.php, line 214]
+2015-08-06 14:10:09 Warning: Warning (2): Invalid argument supplied for foreach() in [D:\xampp\htdocs\product_test\app\controllers\product_client_licenses_controller.php, line 73]
+2015-08-06 14:10:41 Warning: Warning (2): Invalid argument supplied for foreach() in [D:\xampp\htdocs\product_test\app\controllers\product_client_licenses_controller.php, line 73]
+2015-08-06 14:37:03 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  column reference &quot;status&quot; is ambiguous
+LINE 1: ...e_type&quot; = 'create' AND &quot;license_status&quot; = 'a' AND &quot;status&quot; =...
+                                                             ^ in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-06 14:37:03 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  column reference "status" is ambiguous
+LINE 1: ...e_type" = 'create' AND "license_status" = 'a' AND "status" =...
+                                                             ^</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-06 14:38:07 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  column reference &quot;status&quot; is ambiguous
+LINE 1: ...e_type&quot; = 'create' AND &quot;license_status&quot; = 'a' AND &quot;status&quot; =...
+                                                             ^ in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-06 14:38:07 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  column reference "status" is ambiguous
+LINE 1: ...e_type" = 'create' AND "license_status" = 'a' AND "status" =...
+                                                             ^</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-06 14:43:17 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  invalid input syntax for integer: &quot;select_id_client_product&quot;
+LINE 1: ...entLicense&quot;   WHERE &quot;ProductClientLicense&quot;.&quot;id&quot; = 'select_id...
+                                                             ^ in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-06 14:43:17 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  invalid input syntax for integer: "select_id_client_product"
+LINE 1: ...entLicense"   WHERE "ProductClientLicense"."id" = 'select_id...
+                                                             ^</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-06 15:55:57 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  function lower(integer) does not exist
+LINE 1: ...&quot;.&quot;release_location&quot; = &quot;ReleaseMode&quot;.&quot;id&quot;)  WHERE lower(&quot;Pro...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts. in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-06 15:55:57 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  function lower(integer) does not exist
+LINE 1: ..."."release_location" = "ReleaseMode"."id")  WHERE lower("Pro...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-06 16:03:40 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  function lower(integer) does not exist
+LINE 1: ...&quot;.&quot;release_location&quot; = &quot;ReleaseMode&quot;.&quot;id&quot;)  WHERE lower(&quot;Pro...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts. in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-06 16:03:40 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  function lower(integer) does not exist
+LINE 1: ..."."release_location" = "ReleaseMode"."id")  WHERE lower("Pro...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-06 16:05:35 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  function lower(integer) does not exist
+LINE 1: ...&quot;.&quot;release_location&quot; = &quot;ReleaseMode&quot;.&quot;id&quot;)  WHERE lower(&quot;Pro...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts. in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-06 16:05:35 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  function lower(integer) does not exist
+LINE 1: ..."."release_location" = "ReleaseMode"."id")  WHERE lower("Pro...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-06 16:06:19 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  function lower(integer) does not exist
+LINE 1: ...&quot;.&quot;release_location&quot; = &quot;ReleaseMode&quot;.&quot;id&quot;)  WHERE lower(&quot;Pro...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts. in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-06 16:06:19 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  function lower(integer) does not exist
+LINE 1: ..."."release_location" = "ReleaseMode"."id")  WHERE lower("Pro...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-06 16:07:28 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  invalid input syntax for integer: &quot;&quot;
+LINE 1: ....&quot;id&quot;)  WHERE &quot;ProductClientRelease&quot;.&quot;release_no&quot;='' and &quot;Pr...
+                                                             ^ in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-06 16:07:28 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  invalid input syntax for integer: ""
+LINE 1: ...."id")  WHERE "ProductClientRelease"."release_no"='' and "Pr...
+                                                             ^</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-06 16:16:17 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  invalid input syntax for integer: &quot;1.07&quot;
+LINE 1: ...('1', '0', '111111', '2015-08-06', '1', '4', '8', '1.07', '2...
+                                                             ^ in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-06 16:16:17 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  invalid input syntax for integer: "1.07"
+LINE 1: ...('1', '0', '111111', '2015-08-06', '1', '4', '8', '1.07', '2...
+                                                             ^</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-06 16:29:54 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  function lower(integer) does not exist
+LINE 1: ...&quot;.&quot;release_location&quot; = &quot;ReleaseMode&quot;.&quot;id&quot;)  WHERE lower(&quot;Pro...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts. in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-06 16:29:54 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  function lower(integer) does not exist
+LINE 1: ..."."release_location" = "ReleaseMode"."id")  WHERE lower("Pro...
+                                                             ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-06 18:28:24 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 1: ... pcr.release_location=rl.id where pcr.product_id= and pcr.cl...
+                                                             ^ in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-06 18:28:24 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  syntax error at or near "and"
+LINE 1: ... pcr.release_location=rl.id where pcr.product_id= and pcr.cl...
+                                                             ^</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-06 18:31:49 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 1: ... pcr.release_location=rl.id where pcr.product_id= and pcr.cl...
+                                                             ^ in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-06 18:31:49 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  syntax error at or near "and"
+LINE 1: ... pcr.release_location=rl.id where pcr.product_id= and pcr.cl...
+                                                             ^</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-06 18:44:54 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 1: ... pcr.release_location=rl.id where pcr.product_id= and pcr.cl...
+                                                             ^ in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-06 18:44:54 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  syntax error at or near "and"
+LINE 1: ... pcr.release_location=rl.id where pcr.product_id= and pcr.cl...
+                                                             ^</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-06 18:47:13 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 1: ... pcr.release_location=rl.id where pcr.product_id= and pcr.cl...
+                                                             ^ in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-06 18:47:13 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  syntax error at or near "and"
+LINE 1: ... pcr.release_location=rl.id where pcr.product_id= and pcr.cl...
+                                                             ^</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-06 19:08:52 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  syntax error at or near &quot;)&quot;
+LINE 1: ...pro%' AND &quot;ProductClientRelease&quot;.&quot;release_version&quot;) like '1%...
+                                                             ^ in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-06 19:08:52 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  syntax error at or near ")"
+LINE 1: ...pro%' AND "ProductClientRelease"."release_version") like '1%...
+                                                             ^</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-06 19:10:40 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  invalid input syntax for integer: &quot;10%&quot;
+LINE 1: ...e 'pro%' AND &quot;ProductClientLicense&quot;.&quot;license_key&quot; = '10%'   
+                                                               ^ in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-06 19:10:40 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  invalid input syntax for integer: "10%"
+LINE 1: ...e 'pro%' AND "ProductClientLicense"."license_key" = '10%'   
+                                                               ^</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-06 19:10:40 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  invalid input syntax for integer: &quot;10%&quot;
+LINE 1: ...'pro%' AND &quot;ProductClientLicense&quot;.&quot;license_key&quot; = '10%'   OR...
+                                                             ^ in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-06 19:10:40 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  invalid input syntax for integer: "10%"
+LINE 1: ...'pro%' AND "ProductClientLicense"."license_key" = '10%'   OR...
+                                                             ^</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-06 19:13:45 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  invalid input syntax for integer: &quot;10%&quot;
+LINE 1: ...ke 'pro%' AND &quot;ProductClientRelease&quot;.&quot;release_no&quot; = '10%'   
+                                                               ^ in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-06 19:13:45 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  invalid input syntax for integer: "10%"
+LINE 1: ...ke 'pro%' AND "ProductClientRelease"."release_no" = '10%'   
+                                                               ^</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-06 19:13:45 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  invalid input syntax for integer: &quot;10%&quot;
+LINE 1: ... 'pro%' AND &quot;ProductClientRelease&quot;.&quot;release_no&quot; = '10%'   OR...
+                                                             ^ in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-06 19:13:45 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  invalid input syntax for integer: "10%"
+LINE 1: ... 'pro%' AND "ProductClientRelease"."release_no" = '10%'   OR...
+                                                             ^</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-06 19:14:05 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  invalid input syntax for integer: &quot;10%&quot;
+LINE 1: ...ke 'pro%' AND &quot;ProductClientRelease&quot;.&quot;release_no&quot; = '10%'   
+                                                               ^ in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-06 19:14:05 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  invalid input syntax for integer: "10%"
+LINE 1: ...ke 'pro%' AND "ProductClientRelease"."release_no" = '10%'   
+                                                               ^</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-06 19:14:05 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  invalid input syntax for integer: &quot;10%&quot;
+LINE 1: ... 'pro%' AND &quot;ProductClientRelease&quot;.&quot;release_no&quot; = '10%'   OR...
+                                                             ^ in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-06 19:14:05 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  invalid input syntax for integer: "10%"
+LINE 1: ... 'pro%' AND "ProductClientRelease"."release_no" = '10%'   OR...
+                                                             ^</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-07 09:17:18 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  invalid input syntax for integer: &quot;wewrewr&quot;
+LINE 1: ...enewal_date&quot;, &quot;license_status&quot;) VALUES ('1', '0', 'wewrewr',...
+                                                             ^ in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-07 09:17:18 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  invalid input syntax for integer: "wewrewr"
+LINE 1: ...enewal_date", "license_status") VALUES ('1', '0', 'wewrewr',...
+                                                             ^</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-07 09:34:17 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  syntax error at or near &quot;and&quot;
+LINE 1: ...product_client_licenses pcl where pcl.product_id= and pcl.cl...
+                                                             ^ in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-07 09:34:17 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  syntax error at or near "and"
+LINE 1: ...product_client_licenses pcl where pcl.product_id= and pcl.cl...
+                                                             ^</span> in [D:\xampp\htdocs\product_test\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-07 10:56:29 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  invalid input syntax for integer: &quot;dfs&quot;
+LINE 1: ... '324%' AND &quot;ProductClientRelease&quot;.&quot;release_no&quot; = 'dfs' AND ...
+                                                             ^ in [D:\xampp\htdocs\product\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-07 10:56:29 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  invalid input syntax for integer: "dfs"
+LINE 1: ... '324%' AND "ProductClientRelease"."release_no" = 'dfs' AND ...
+                                                             ^</span> in [D:\xampp\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-07 13:03:18 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  invalid input syntax for integer: &quot;wewrewr&quot;
+LINE 1: ...enewal_date&quot;, &quot;license_status&quot;) VALUES ('1', '0', 'wewrewr',...
+                                                             ^ in [D:\xampp\htdocs\product\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-07 13:03:18 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  invalid input syntax for integer: "wewrewr"
+LINE 1: ...enewal_date", "license_status") VALUES ('1', '0', 'wewrewr',...
+                                                             ^</span> in [D:\xampp\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-12 16:30:39 Warning: Warning (512): Method HtmlHelper::file does not exist in [D:\xampp\htdocs\product\cake\libs\view\helper.php, line 154]
+2015-08-12 18:06:40 Warning: Warning (4096): Object of class JsHelper could not be converted to string in [D:\xampp\htdocs\product\app\views\product_client_licenses\add_license.ctp, line 99]
+2015-08-12 18:06:58 Warning: Warning (4096): Object of class JsHelper could not be converted to string in [D:\xampp\htdocs\product\app\views\product_client_licenses\add_license.ctp, line 99]
+2015-08-12 18:07:13 Warning: Warning (4096): Object of class AjaxHelper could not be converted to string in [D:\xampp\htdocs\product\app\views\product_client_licenses\add_license.ctp, line 99]
+2015-08-12 14:16:22 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  value &quot;12345445234&quot; is out of range for type integer
+LINE 1: ...duct_License/2015-08-12-141622product_tests.sql', '123454452...
+                                                             ^ in [D:\xampp\htdocs\product\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-12 14:16:22 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  value "12345445234" is out of range for type integer
+LINE 1: ...duct_License/2015-08-12-141622product_tests.sql', '123454452...
+                                                             ^</span> in [D:\xampp\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-12 19:29:57 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  invalid input syntax for integer: &quot;Product_License&quot;
+LINE 1: ...oduct&quot;.&quot;id&quot;)  WHERE &quot;ProductClientLicense&quot;.&quot;id&quot; = 'Product_L...
+                                                             ^ in [D:\xampp\htdocs\product\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-12 19:29:57 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  invalid input syntax for integer: "Product_License"
+LINE 1: ...oduct"."id")  WHERE "ProductClientLicense"."id" = 'Product_L...
+                                                             ^</span> in [D:\xampp\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-13 05:00:18 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  invalid input syntax for integer: &quot;jojo&quot;
+LINE 1: ...ydrangeas.jpg', 'Product_License/Lighthouse.jpg', 'jojo', '8...
+                                                             ^ in [D:\xampp\htdocs\product\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-13 05:00:18 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  invalid input syntax for integer: "jojo"
+LINE 1: ...ydrangeas.jpg', 'Product_License/Lighthouse.jpg', 'jojo', '8...
+                                                             ^</span> in [D:\xampp\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-13 10:35:51 Warning: Warning (2): pg_connect() [<a href='http://php.net/function.pg-connect'>function.pg-connect</a>]: Unable to connect to PostgreSQL server: could not connect to server: Connection timed out (0x0000274C/10060)
+	Is the server running on host &quot;10.100.1.8&quot; and accepting
+	TCP/IP connections on port 5432? in [D:\xampp\htdocs\product\cake\libs\model\datasources\dbo\dbo_postgres.php, line 119]
+2015-08-13 10:35:51 Warning: Warning (2): pg_query() expects parameter 1 to be resource, boolean given in [D:\xampp\htdocs\product\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-13 10:35:51 Warning: Warning (2): pg_last_error() expects parameter 1 to be resource, boolean given in [D:\xampp\htdocs\product\cake\libs\model\datasources\dbo\dbo_postgres.php, line 342]
+2015-08-13 16:47:40 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  syntax error at or near &quot;1&quot;
+LINE 1: ... '0'   ORDER BY &quot;ProductClientLicense&quot;.&quot;id&quot; desc, &quot;limit&quot; 1 
+                                                                     ^ in [D:\xampp\htdocs\product\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-13 16:47:40 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  syntax error at or near "1"
+LINE 1: ... '0'   ORDER BY "ProductClientLicense"."id" desc, "limit" 1 
+                                                                     ^</span> in [D:\xampp\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-13 18:04:29 Warning: Warning (2): explode() expects parameter 2 to be string, array given in [D:\xampp\htdocs\product\cake\libs\view\helper.php, line 415]
+2015-08-13 18:04:29 Warning: Warning (2): array_values() expects parameter 1 to be array, boolean given in [D:\xampp\htdocs\product\cake\libs\view\helper.php, line 415]
+2015-08-13 18:04:29 Warning: Warning (2): explode() expects parameter 2 to be string, array given in [D:\xampp\htdocs\product\cake\libs\view\view.php, line 638]
+2015-08-13 18:04:29 Warning: Warning (2): implode() [<a href='http://php.net/function.implode'>function.implode</a>]: Invalid arguments passed in [D:\xampp\htdocs\product\cake\libs\view\helper.php, line 662]
+2015-08-13 18:04:29 Warning: Warning (2): array_shift() expects parameter 1 to be array, boolean given in [D:\xampp\htdocs\product\cake\libs\view\helper.php, line 616]
+2015-08-13 18:04:29 Warning: Warning (2): array_map() [<a href='http://php.net/function.array-map'>function.array-map</a>]: Argument #2 should be an array in [D:\xampp\htdocs\product\cake\libs\view\helper.php, line 617]
+2015-08-13 18:04:29 Warning: Warning (2): join() [<a href='http://php.net/function.join'>function.join</a>]: Invalid arguments passed in [D:\xampp\htdocs\product\cake\libs\view\helper.php, line 617]
+2015-08-13 15:22:08 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\product\cake\libs\debugger.php:686) in [D:\xampp\htdocs\product\cake\libs\controller\controller.php, line 742]
+2015-08-14 09:31:41 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  invalid input value for enum license_type: &quot;&quot;
+LINE 1: ...t_id&quot; = '7', &quot;client_id&quot; = '13', &quot;license_type&quot; = '', &quot;creat...
+                                                             ^ in [D:\xampp\htdocs\product\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-14 09:31:41 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  invalid input value for enum license_type: ""
+LINE 1: ...t_id" = '7', "client_id" = '13', "license_type" = '', "creat...
+                                                             ^</span> in [D:\xampp\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-14 11:55:12 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  syntax error at or near &quot;create&quot;
+LINE 1: ...leted&quot;=0 AND &quot;ProductClientLicense&quot;.&quot;license_type&quot;=create   
+                                                              ^ in [D:\xampp\htdocs\product\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-14 11:55:12 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  syntax error at or near "create"
+LINE 1: ...leted"=0 AND "ProductClientLicense"."license_type"=create   
+                                                              ^</span> in [D:\xampp\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-14 11:55:12 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  syntax error at or near &quot;create&quot;
+LINE 1: ...eted&quot;=0 AND &quot;ProductClientLicense&quot;.&quot;license_type&quot;=create   O...
+                                                             ^ in [D:\xampp\htdocs\product\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-14 11:55:12 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  syntax error at or near "create"
+LINE 1: ...eted"=0 AND "ProductClientLicense"."license_type"=create   O...
+                                                             ^</span> in [D:\xampp\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-14 11:59:14 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  column ProductClientLicense.product_name does not exist
+LINE 1: ...oductClientLicense&quot;.&quot;license_type&quot; = 'create' AND &quot;ProductCl...
+                                                             ^ in [D:\xampp\htdocs\product\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-14 11:59:14 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  column ProductClientLicense.product_name does not exist
+LINE 1: ...oductClientLicense"."license_type" = 'create' AND "ProductCl...
+                                                             ^</span> in [D:\xampp\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-14 12:00:29 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  unterminated quoted string at or near &quot;'zx\'   &quot;
+LINE 1: ...eleted&quot;=0 AND &quot;ProductClientRelease&quot;.&quot;release_no&quot; = 'zx\'   
+                                                               ^ in [D:\xampp\htdocs\product\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-14 12:00:29 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  unterminated quoted string at or near "'zx\'   "
+LINE 1: ...eleted"=0 AND "ProductClientRelease"."release_no" = 'zx\'   
+                                                               ^</span> in [D:\xampp\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-14 12:00:29 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  unterminated quoted string at or near &quot;'zx\'   ORDER BY &quot;ProductClientRelease&quot;.&quot;release_no&quot; asc  LIMIT 10&quot;
+LINE 1: ...eted&quot;=0 AND &quot;ProductClientRelease&quot;.&quot;release_no&quot; = 'zx\'   OR...
+                                                             ^ in [D:\xampp\htdocs\product\cake\libs\model\datasources\dbo\dbo_postgres.php, line 167]
+2015-08-14 12:00:29 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  unterminated quoted string at or near "'zx\'   ORDER BY "ProductClientRelease"."release_no" asc  LIMIT 10"
+LINE 1: ...eted"=0 AND "ProductClientRelease"."release_no" = 'zx\'   OR...
+                                                             ^</span> in [D:\xampp\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 684]
+2015-08-17 16:39:28 Warning: Warning (2): mkdir() [<a href='http://php.net/function.mkdir'>function.mkdir</a>]: Permission denied in [/opt/lampp/htdocs/product/app/app_controller.php, line 105]
+2015-08-17 16:40:16 Warning: Warning (2): mkdir() [<a href='http://php.net/function.mkdir'>function.mkdir</a>]: Permission denied in [/opt/lampp/htdocs/product/app/app_controller.php, line 105]
+2015-08-17 16:40:16 Warning: Warning (2): move_uploaded_file(Product_License/pgadmin.log) [<a href='http://php.net/function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in [/opt/lampp/htdocs/product/app/app_controller.php, line 149]
+2015-08-17 16:40:16 Warning: Warning (2): move_uploaded_file() [<a href='http://php.net/function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpiZKXvO' to 'Product_License/pgadmin.log' in [/opt/lampp/htdocs/product/app/app_controller.php, line 149]
+2015-08-17 16:40:16 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /opt/lampp/htdocs/product/cake/libs/debugger.php:686) in [/opt/lampp/htdocs/product/cake/libs/controller/controller.php, line 742]
+2015-08-17 16:43:40 Warning: Warning (2): mkdir() [<a href='http://php.net/function.mkdir'>function.mkdir</a>]: Permission denied in [/opt/lampp/htdocs/product/app/app_controller.php, line 105]
+2015-08-17 16:43:40 Warning: Warning (2): move_uploaded_file(Product_License/pgadmin.log) [<a href='http://php.net/function.move-uploaded-file'>function.move-uploaded-file</a>]: failed to open stream: No such file or directory in [/opt/lampp/htdocs/product/app/app_controller.php, line 149]
+2015-08-17 16:43:40 Warning: Warning (2): move_uploaded_file() [<a href='http://php.net/function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpc1EoKt' to 'Product_License/pgadmin.log' in [/opt/lampp/htdocs/product/app/app_controller.php, line 149]
+2015-08-17 16:43:40 Warning: Warning (2): Cannot modify header information - headers already sent by (output started at /opt/lampp/htdocs/product/cake/libs/debugger.php:686) in [/opt/lampp/htdocs/product/cake/libs/controller/controller.php, line 742]
+2015-08-17 17:42:40 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  value too long for type character varying(25) in [/opt/lampp/htdocs/product/cake/libs/model/datasources/dbo/dbo_postgres.php, line 167]
+2015-08-17 17:42:40 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  value too long for type character varying(25)</span> in [/opt/lampp/htdocs/product/cake/libs/model/datasources/dbo_source.php, line 684]
+2015-08-17 13:16:47 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  value too long for type character varying(25) in [/opt/lampp/htdocs/product/cake/libs/model/datasources/dbo/dbo_postgres.php, line 167]
+2015-08-17 13:16:47 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  value too long for type character varying(25)</span> in [/opt/lampp/htdocs/product/cake/libs/model/datasources/dbo_source.php, line 684]
+2015-09-21 15:15:07 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  syntax error at or near &quot;AND&quot; at character 70 in [/opt/lampp/htdocs/product/cake/libs/model/datasources/dbo/dbo_postgres.php, line 167]
+2015-09-21 15:15:07 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  syntax error at or near "AND" at character 70</span> in [/opt/lampp/htdocs/product/cake/libs/model/datasources/dbo_source.php, line 684]
+2015-09-21 15:15:07 Warning: Warning (2): pg_query() [<a href='http://php.net/function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  syntax error at end of input at character 66 in [/opt/lampp/htdocs/product/cake/libs/model/datasources/dbo/dbo_postgres.php, line 167]
+2015-09-21 15:15:07 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> ERROR:  syntax error at end of input at character 66</span> in [/opt/lampp/htdocs/product/cake/libs/model/datasources/dbo_source.php, line 684]
+2015-12-08 12:52:05 Warning: Warning (2): pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  value too long for type character varying(250) in [/opt/lampp/htdocs/product/cake/libs/model/datasources/dbo/dbo_postgres.php, line 167]
+2015-12-08 12:52:27 Warning: Warning (2): pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  value too long for type character varying(250) in [/opt/lampp/htdocs/product/cake/libs/model/datasources/dbo/dbo_postgres.php, line 167]
+2017-08-18 09:11:17 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 09:11:36 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 09:12:01 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 09:12:18 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 09:13:46 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 09:19:20 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 09:19:29 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 09:38:43 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 09:43:56 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 12:18:07 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 12:18:52 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 12:40:26 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 12:40:40 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 12:41:18 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 12:57:25 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 12:57:35 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 12:57:39 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 12:57:46 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 12:57:50 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 12:57:58 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 12:58:01 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 12:58:07 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 13:00:29 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 13:00:40 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 13:00:44 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 13:00:58 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 13:15:53 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 13:16:04 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 13:16:08 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 13:16:15 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 13:16:19 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 13:16:32 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 13:16:37 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 13:16:46 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 13:17:20 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 13:17:24 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 13:22:19 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 13:22:23 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 13:22:26 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 13:22:31 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 13:22:44 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 13:24:21 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 13:24:31 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 13:34:12 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 13:34:15 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 13:34:18 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 13:34:21 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 13:37:26 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 14:28:56 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 14:29:03 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 14:42:20 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 14:42:48 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 14:44:02 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 14:44:06 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 14:44:23 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 14:44:26 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 14:44:31 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 14:44:48 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 14:45:58 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 14:48:19 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 14:48:25 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 14:49:06 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 14:49:14 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\product\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 14:51:22 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\products\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 14:53:36 Error: Fatal Error (256): ConnectionManager::getDataSource - Non-existent data source default in [D:\xampp5\htdocs\products\cake\libs\model\connection_manager.php, line 102]
+2017-08-18 14:53:42 Error: Fatal Error (256): ConnectionManager::getDataSource - Non-existent data source default in [D:\xampp5\htdocs\products\cake\libs\model\connection_manager.php, line 102]
+2017-08-18 14:53:44 Error: Fatal Error (256): ConnectionManager::getDataSource - Non-existent data source default in [D:\xampp5\htdocs\products\cake\libs\model\connection_manager.php, line 102]
+2017-08-18 14:53:56 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\products\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-18 14:54:03 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\products\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-28 06:18:20 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\products\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-28 06:19:19 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\products\cake\libs\model\datasources\dbo_source.php, line 139]
+2017-08-28 06:35:06 Error: Fatal Error (256): DboPostgres - Selected driver is not enabled in [D:\xampp5\htdocs\products\cake\libs\model\datasources\dbo_source.php, line 139]

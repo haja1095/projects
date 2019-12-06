@@ -1,0 +1,213 @@
+
+-----Video Info-----
+Creator: youtube.com/thenewboston
+Average Video Time: 5-7 minutes
+Amount of Videos: 200
+Video Format: .mp4
+----end of info------
+
+
+Files in torrent:
+----------------------
+----------------------
+
+Beginner PHP Tutorial - 001 - Introduction to PHP.mp4
+Beginner PHP Tutorial - 002 - Installing XAMPP Part 1.mp4
+Beginner PHP Tutorial - 003 - Installing XAMPP Part 2.mp4
+Beginner PHP Tutorial - 004 - Creating Your First PHP File.mp4
+Beginner PHP Tutorial - 005 - Writing Your First PHP File.mp4
+Beginner PHP Tutorial - 006 - The phpinfo Function.mp4
+Beginner PHP Tutorial - 007 - The php.ini File.mp4
+Beginner PHP Tutorial - 008 - Indentation.mp4
+Beginner PHP Tutorial - 009 - echo.mp4
+Beginner PHP Tutorial - 010 - print.mp4
+Beginner PHP Tutorial - 011 - Output HTML Using echoprint.mp4
+Beginner PHP Tutorial - 012 - Embedding PHP Inside HTML.mp4
+Beginner PHP Tutorial - 013 - comments.mp4
+Beginner PHP Tutorial - 014 - Error Reporting.mp4
+Beginner PHP Tutorial - 015 - More on Error Reporting.mp4
+Beginner PHP Tutorial - 016 - Variables.mp4
+Beginner PHP Tutorial - 017 - Concatenation.mp4
+Beginner PHP Tutorial - 018 - if  if else Statement.mp4
+Beginner PHP Tutorial - 019 - if  else if Statement.mp4
+Beginner PHP Tutorial - 020 - Assignment Operators.mp4
+Beginner PHP Tutorial - 021 - Comparison Operators.mp4
+Beginner PHP Tutorial - 022 - Arithmetic Operators.mp4
+Beginner PHP Tutorial - 023 - Logical Operators.mp4
+Beginner PHP Tutorial - 024 - Triple Equals.mp4
+Beginner PHP Tutorial - 025 - while Loop.mp4
+Beginner PHP Tutorial - 026 - do while Loop.mp4
+Beginner PHP Tutorial - 027 - for Loop.mp4
+Beginner PHP Tutorial - 028 - switch Statement.mp4
+Beginner PHP Tutorial - 029 - die and exit Functions.mp4
+Beginner PHP Tutorial - 030 - Basic Functions.mp4
+Beginner PHP Tutorial - 031 - Functions with Arguments.mp4
+Beginner PHP Tutorial - 032 - Functions with a Return Value.mp4
+Beginner PHP Tutorial - 033 - Global Variables and Functions.mp4
+Beginner PHP Tutorial - 034 - String Functions Part 1.mp4
+Beginner PHP Tutorial - 035 - String Functions Part 2.mp4
+Beginner PHP Tutorial - 036 - String Functions Part 3.mp4
+Beginner PHP Tutorial - 037 - String Functions Part 4.mp4
+Beginner PHP Tutorial - 038 - Introduction to Arrays.mp4
+Beginner PHP Tutorial - 039 - Associative Arrays.mp4
+Beginner PHP Tutorial - 040 - Multi-dimensional Arrays.mp4
+Beginner PHP Tutorial - 041 - for each Statement.mp4
+Beginner PHP Tutorial - 042 - include and require Functions.mp4
+Beginner PHP Tutorial - 043 - includeonce and requireonce.mp4
+Beginner PHP Tutorial - 044 - Expression Matching.mp4
+Beginner PHP Tutorial - 045 - More on Expression Matching.mp4
+Beginner PHP Tutorial - 046 - String Functions String Length.mp4
+Beginner PHP Tutorial - 047 - String Functions Upper  Lower Case Conversion.mp4
+Beginner PHP Tutorial - 048 - String Functions String Position Part 1.mp4
+Beginner PHP Tutorial - 049 - String Functions String Position Part 2.mp4
+Beginner PHP Tutorial - 050 - String Functions Replacing Part of a String.mp4
+Beginner PHP Tutorial - 051 - String Functions Replacing Predefined Part of a String.mp4
+Beginner PHP Tutorial - 052 - Word Censoring Part 1.mp4
+Beginner PHP Tutorial - 053 - Word Censoring Part 2.mp4
+Beginner PHP Tutorial - 054 - Creating a Find and Replace Application Part 1.mp4
+Beginner PHP Tutorial - 055 - Creating a Find and Replace Application Part 2.mp4
+Beginner PHP Tutorial - 056 - Creating a Find and Replace Application Part 3.mp4
+Beginner PHP Tutorial - 057 - Creating a Find and Replace Application Part 4.mp4
+Beginner PHP Tutorial - 058 - timestamps.mp4
+Beginner PHP Tutorial - 059 - Modifying timestamps.mp4
+Beginner PHP Tutorial - 060 - Random Number Generation.mp4
+Beginner PHP Tutorial - 061 - $SERVER Variables Script Name.mp4
+Beginner PHP Tutorial - 062 - $SERVER Variables Host Name.mp4
+Beginner PHP Tutorial - 063 - Using the Header to Force Page Redirect.mp4
+Beginner PHP Tutorial - 064 - obstart.mp4
+Beginner PHP Tutorial - 065 - Getting Visitors IP Address.mp4
+Beginner PHP Tutorial - 066 - Better Way to Get Visitors IP Address.mp4
+Beginner PHP Tutorial - 067 - Detecting a Visitors Browser Part 1.mp4
+Beginner PHP Tutorial - 068 - Detecting a Visitors Browser Part 2.mp4
+Beginner PHP Tutorial - 069 - Working with $GET Variables.mp4
+Beginner PHP Tutorial - 070 - Working with $POST Variables.mp4
+Beginner PHP Tutorial - 071 - Working with Form Data.mp4
+Beginner PHP Tutorial - 072 - Using htmlentities for Security.mp4
+Beginner PHP Tutorial - 073 - Setting PHP Sessions.mp4
+Beginner PHP Tutorial - 074 - Unsetting PHP Sessions.mp4
+Beginner PHP Tutorial - 075 - Creating Cookies with PHP.mp4
+Beginner PHP Tutorial - 076 - Deleting Cookies with PHP.mp4
+Beginner PHP Tutorial - 077 - File Handling Writing to a File.mp4
+Beginner PHP Tutorial - 078 - File Handling Reading a File.mp4
+Beginner PHP Tutorial - 079 - File Handling Appending a File.mp4
+Beginner PHP Tutorial - 080 - The explode Function with File Handling Example.mp4
+Beginner PHP Tutorial - 081 - The implode Function with File Handling Example.mp4
+Beginner PHP Tutorial - 082 - File Handling Listing Files Part 1.mp4
+Beginner PHP Tutorial - 083 - File Handling Listing Files Part 2.mp4
+Beginner PHP Tutorial - 084 - File Handling Checking if a File Exists.mp4
+Beginner PHP Tutorial - 085 - File Handling Deleting and Renaming Files Part 1.mp4
+Beginner PHP Tutorial - 086 - File Handling Deleting and Renaming Files Part 2.mp4
+Beginner PHP Tutorial - 087 - Uploading Files The Basics.mp4
+Beginner PHP Tutorial - 088 - Uploading Files The Basics Part 2.mp4
+Beginner PHP Tutorial - 089 - Uploading Files Restricting File Size.mp4
+Beginner PHP Tutorial - 090 - Uploading Files Restricting File Extensions Part 1.mp4
+Beginner PHP Tutorial - 091 - Uploading Files Restricting File Extensions Part 2.mp4
+Beginner PHP Tutorial - 092 - Creating a non-unique Hit Counter.mp4
+Beginner PHP Tutorial - 093 - Creating a File Based Unique Hit Counter Part 1.mp4
+Beginner PHP Tutorial - 094 - Creating a File Based Unique Hit Counter Part 2.mp4
+Beginner PHP Tutorial - 095 - Creating a File Based Unique Hit Counter Part 3.mp4
+Beginner PHP Tutorial - 096 - MD5 Encryption Part 1.mp4
+Beginner PHP Tutorial - 097 - MD5 Encryption Part 2.mp4
+Beginner PHP Tutorial - 098 - Sending an Email Part 1.mp4
+Beginner PHP Tutorial - 099 - Sending an Email Part 2.mp4
+Beginner PHP Tutorial - 100 - Creating a Simple Contact Form Part 1.mp4
+Beginner PHP Tutorial - 101 - Creating a Simple Contact Form Part 2.mp4
+Beginner PHP Tutorial - 102 - Creating a Simple Contact Form Part 3.mp4
+Beginner PHP Tutorial - 103 - Creating a Simple Contact Form Part 4.mp4
+Beginner PHP Tutorial - 104 - An Introduction to XML.mp4
+Beginner PHP Tutorial - 105 - Reading a Simple XML File Part 1.mp4
+Beginner PHP Tutorial - 106 - Reading a Simple XML File Part 2.mp4
+Beginner PHP Tutorial - 107 - A YouTube XML Example.mp4
+Beginner PHP Tutorial - 108 - An Introduction to Databases.mp4
+Beginner PHP Tutorial - 109 - More About Databases.mp4
+Beginner PHP Tutorial - 110 - phpMyAdmin Part 1.mp4
+Beginner PHP Tutorial - 111 - phpMyAdmin Part 2.mp4
+Beginner PHP Tutorial - 112 - phpMyAdmin Part 3.mp4
+Beginner PHP Tutorial - 113 - Connecting to a Server and Database Part 1.mp4
+Beginner PHP Tutorial - 114 - Connecting to a Server and Database Part 2.mp4
+Beginner PHP Tutorial - 115 - SELECT Part 1.mp4
+Beginner PHP Tutorial - 116 - SELECT Part 2.mp4
+Beginner PHP Tutorial - 117 - SELECT Part 3.mp4
+Beginner PHP Tutorial - 118 - SELECT By Example Part 1.mp4
+Beginner PHP Tutorial - 119 - SELECT By Example Part 2.mp4
+Beginner PHP Tutorial - 120 - More Basic Querying Part 1.mp4
+Beginner PHP Tutorial - 121 - More Basic Querying Part 2.mp4
+Beginner PHP Tutorial - 122 - More Basic Querying Part 3.mp4
+Beginner PHP Tutorial - 123 - Creating a Database Hit Counter Part 1.mp4
+Beginner PHP Tutorial - 124 - Creating a Database Hit Counter Part 2.mp4
+Beginner PHP Tutorial - 125 - Creating a Database Hit Counter Part 3.mp4
+Beginner PHP Tutorial - 126 - Creating a Database Hit Counter Part 4.mp4
+Beginner PHP Tutorial - 127 - LEFT JOIN.mp4
+Beginner PHP Tutorial - 128 - RIGHT JOIN.mp4
+Beginner PHP Tutorial - 129 - JOIN.mp4
+Beginner PHP Tutorial - 130 - LIKE With a Search Engine Example Part 1.mp4
+Beginner PHP Tutorial - 131 - LIKE With a Search Engine Example Part 2.mp4
+Beginner PHP Tutorial - 132 - LIKE With a Search Engine Example Part 3.mp4
+Beginner PHP Tutorial - 133 - LIKE With a Search Engine Example Part 4.mp4
+Beginner PHP Tutorial - 134 - SELECT DISTINCT.mp4
+Beginner PHP Tutorial - 135 - Creating Tables.mp4
+Beginner PHP Tutorial - 136 - Logging the User In Part 1.mp4
+Beginner PHP Tutorial - 137 - Logging the User In Part 2.mp4
+Beginner PHP Tutorial - 138 - Logging the User In Part 3.mp4
+Beginner PHP Tutorial - 139 - Logging the User In Part 4.mp4
+Beginner PHP Tutorial - 140 - Logging the User Out.mp4
+Beginner PHP Tutorial - 141 - Getting User Data Part 1.mp4
+Beginner PHP Tutorial - 142 - Getting User Data Part 2.mp4
+Beginner PHP Tutorial - 143 - Protecting the User Against SQL Injection.mp4
+Beginner PHP Tutorial - 144 - Registration Form Part 1.mp4
+Beginner PHP Tutorial - 145 - Registration Form Part 2.mp4
+Beginner PHP Tutorial - 146 - Registration Form Part 3.mp4
+Beginner PHP Tutorial - 147 - Registration Form Part 4.mp4
+Beginner PHP Tutorial - 148 - More Validation Part 1.mp4
+Beginner PHP Tutorial - 149 - More Validation Part 2.mp4
+Beginner PHP Tutorial - 150 - More Validation Part 3.mp4
+Beginner PHP Tutorial - 151 - SQL Injection Part 1.mp4
+Beginner PHP Tutorial - 152 - SQL Injection Part 2.mp4
+Beginner PHP Tutorial - 153 - SQL Injection Part 3.mp4
+Beginner PHP Tutorial - 154 - SQL Injection Part 4.mp4
+Beginner PHP Tutorial - 155 - SQL Injection Part 5.mp4
+Beginner PHP Tutorial - 156 - Introduction to GD.mp4
+Beginner PHP Tutorial - 157 - Protecting Email with String to Image Part 1.mp4
+Beginner PHP Tutorial - 158 - Protecting Email with String to Image Part 2.mp4
+Beginner PHP Tutorial - 159 - Protecting Email with String to Image Part 3.mp4
+Beginner PHP Tutorial - 160 - Protecting Email with String to Image Part 4.mp4
+Beginner PHP Tutorial - 161 - Watermarking Images Part 1.mp4
+Beginner PHP Tutorial - 162 - Watermarking Images Part 2.mp4
+Beginner PHP Tutorial - 163 - Watermarking Images Part 3.mp4
+Beginner PHP Tutorial - 164 - Creating Captcha Image Security Part 1.mp4
+Beginner PHP Tutorial - 165 - Creating Captcha Image Security Part 2.mp4
+Beginner PHP Tutorial - 166 - Creating Captcha Image Security Part 3.mp4
+Beginner PHP Tutorial - 167 - Creating Captcha Image Security Part 4.mp4
+Beginner PHP Tutorial - 168 - Scaling Down Images to Thumbnails Part 1.mp4
+Beginner PHP Tutorial - 169 - Scaling Down Images to Thumbnails Part 2.mp4
+Beginner PHP Tutorial - 170 - Scaling Down Images to Thumbnails Part 3.mp4
+Beginner PHP Tutorial - 171 - Introduction to AJAX.mp4
+Beginner PHP Tutorial - 172 - Loading in file Contents to a DIV Part 1.mp4
+Beginner PHP Tutorial - 173 - Loading in file Contents to a DIV Part 2.mp4
+Beginner PHP Tutorial - 174 - Loading in file Contents to a DIV Part 3.mp4
+Beginner PHP Tutorial - 175 - Auto Suggest Application Part 1.mp4
+Beginner PHP Tutorial - 176 - Auto Suggest Application Part 2.mp4
+Beginner PHP Tutorial - 177 - Auto Suggest Application Part 3.mp4
+Beginner PHP Tutorial - 178 - Auto Suggest Application Part 4.mp4
+Beginner PHP Tutorial - 179 - Auto Suggest Application Part 5.mp4
+Beginner PHP Tutorial - 180 - POSTing Data Part 1.mp4
+Beginner PHP Tutorial - 181 - POSTing Data Part 2.mp4
+Beginner PHP Tutorial - 182 - POSTing Data Part 3.mp4
+Beginner PHP Tutorial - 183 - POSTing Data Part 4.mp4
+Beginner PHP Tutorial - 184 - POSTing Data Part 5.mp4
+Beginner PHP Tutorial - 185 - Throwing an Exception.mp4
+Beginner PHP Tutorial - 186 - try, throw, catch.mp4
+Beginner PHP Tutorial - 187 - Custom Exceptions.mp4
+Beginner PHP Tutorial - 188 - Custom Error Messages.mp4
+Beginner PHP Tutorial - 189 - Introduction to OOP.mp4
+Beginner PHP Tutorial - 190 - Classes, Properties, and Methods.mp4
+Beginner PHP Tutorial - 191 - Return a Property Value.mp4
+Beginner PHP Tutorial - 192 - Changing a Property Value.mp4
+Beginner PHP Tutorial - 193 - public, private, and protected.mp4
+Beginner PHP Tutorial - 194 - Constants.mp4
+Beginner PHP Tutorial - 195 - Class Constructor.mp4
+Beginner PHP Tutorial - 196 - Multiple Instances of Classes.mp4
+Beginner PHP Tutorial - 197 - extends Part 1.mp4
+Beginner PHP Tutorial - 198 - extends Part 2.mp4
+Beginner PHP Tutorial - 199 - Connecting to a Database the OOP Way.mp4
+Beginner PHP Tutorial - 200 - Final PHP Video!!!.mp4

@@ -1,0 +1,62 @@
+#lightbox{
+	background-color:#eee;
+	padding: 10px;
+	border-bottom: 2px solid #17C632;
+	border-right: 2px solid #17C632;
+	border-top: 2px solid #17C632;
+	border-left: 2px solid #17C632;
+	}
+	#ter {
+		background-color:#5555FF
+	}
+#lightboxDetails{
+	 
+	padding-top: 0.4em;
+	margin-top:15px;
+	}	
+#lightboxCaption{
+	float: left; 
+	color: #185C85;
+	font-size: 14px;
+	}
+#keyboardMsg{ float: right; }
+#closeButton{ top: 5px; right: 5px; cursor: pointer; }
+ 
+#lightbox_header{top: 5px; right: 5px; }
+
+#lightbox img{ border: none; clear: both;} 
+#overlay img{ border: none; }
+
+ #overlay{  
+ 
+background-color: #333;
+			-moz-opacity: 0.8;
+			opacity:.30;
+			filter: alpha(opacity=30);
+/*background-image: url(overlay.png);*/
+ } 
+ 
+ #mine_overlay img{ border: none; }
+
+ #mine_overlay{  
+ 
+background-color: #333;
+			-moz-opacity: 0.8;
+			opacity:.30;
+			filter: alpha(opacity=30);
+/*background-image: url(overlay.png);*/
+ } 
+ 
+ /*4
+* html #overlay{
+	background-color: #333;
+	back\ground-color: transparent;
+	background-image: url(blank.gif);
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="overlay.png", sizingMethod="scale");
+	}*/
+* html #overlay{
+	background-color: #333;
+	back\ground-color: transparent;
+	background-image: url(blank.gif);
+	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="overlay.png", sizingMethod="scale");
+	}

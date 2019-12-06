@@ -1,0 +1,6 @@
+select p.product_name from products p join product_clients pc on p.id=pc.product_id where pc.client_id=20
+
+$query="select p.product_name from products p join product_clients pc on p.id=pc.product_id where pc.client_id=20";
+		//return $this->find('list',array('fields' => array('Product.id','Product.product_name'),'order'=>array('Product.id')));   
+		$res=$this->query($query);
+		return $res;
