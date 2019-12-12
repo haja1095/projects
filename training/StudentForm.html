@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Student Register Form</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+<tr><td>
+        <h2>Student Registration Form</h2></td></tr>
+<form>
+  
+          
+    <table align="center" cellpadding="10">
+          <tr><td><h3>General Info</h3></td></tr>
+    <tr>
+        <td>First Name</td>
+        <td><input type="text" name="First_Name" maxlength="30" required>
+            (max 30 characters a-z and A-Z)
+            <td>
+    </tr>
+     <tr>
+        <td>Last Name</td>
+        <td><input type="text" name="Last_Name" maxlength="30" required>
+            (max 30 characters a-z and A-Z)
+            <td>
+    </tr>
+    
+
+    <tr>
+        <td>Date of Birth</td>
+        <td><input type="date" name="Birthday_Day" id="Birthday_Day"></td>
+</tr> 
+  <tr>
+        <td>Email ID</td>
+        <td><input type="text" name="EmailID" maxlength="100" required>
+            <td>
+    </tr>
+      <tr>
+        <td>Mobile NO</td>
+        <td><input type="text" name="Mobile NO" maxlength="10" required>
+            (10 digit number)
+            <td>
+    </tr>
+    <tr>
+<td>GENDER</td>
+<td>
+<input type="radio" name="Gender" value="Male" />Male 
+ <input type="radio" name="Gender" value="Female" />Female
+</td>
+</tr>
+<tr>
+    <td>
+<h3>Communication Address</h3></td></tr>
+    <tr>
+<td>ADDRESS <br/><br/><br/></td>
+<td><textarea name="Address" rows="4" cols="30"></textarea></td>
+</tr>
+<!--<tr>
+<td>CITY</td>
+<td><input type="text" name="City" maxlength="30"/>
+(max 30 characters a-z and A-Z)
+</td>
+</tr>-->
+<tr>
+<td>City</td>
+<td><select name="City">
+<option value="-1" selected>select..</option>
+<option value="Chennai">Chennai</option>
+<option value="Coimbatore">Coimbatore</option>
+<option value="Thiruchirapalli">Thiruchirapalli</option>
+<option value="Madurai">Madurai</option>
+</select></td>
+</tr>
+<tr>
+<td>PIN CODE</td>
+<td><input type="text" name="Pin_Code" maxlength="6"/>
+(6 digit number)
+</td>
+</tr>
+<!--<tr>
+<td>STATE</td>
+<td><input type="text" name="State" maxlength="30"/>
+(max 30 characters a-z and A-Z)
+</td>
+</tr>-->
+<tr>
+<td>State</td>
+<td><select Name="State">
+<option value="-1" selected>select..</option>
+<option value="New Delhi">NEW DELHI</option>
+<option value="Mumbai">MUMBAI</option>
+<option value="TAMIL NADU">TAMIL NADU</option>
+<option value="KERALA">KERALA</option>
+</select></td>
+</tr>
+<tr>
+<td>COUNTRY</td>
+<td><input type="text" name="Country" value="India" readonly="readonly" /></td>
+</tr>
+<tr>
+    <td>
+<h4>Academic Details </h4></td>
+    <tr>
+<td>HOBBIES <br/><br/><br/></td>
+<td>
+<input type="checkbox" name="Hobby_Drawing" value="Drawing" />Drawing
+<input type="checkbox" name="Hobby_Singing" value="Singing" />Singing
+<input type="checkbox" name="Hobby_Dancing" value="Dancing" />Dancing
+<input type="checkbox" name="Hobby_Cooking" value="Cooking" />Sketching
+<input type="checkbox" name="Hobby_Other" value="Other" />Others
+<!--<input type="text" name="Other_Hobby" maxlength="30" />-->
+</td>
+</tr>
+<tr>
+<td>QUALIFICATION <br /><br /><br /><br /><br /><br /><br /></td>
+ 
+<td>
+    <table>
+        <tr>
+<td align="center"><b>Sl.No.</b></td>
+<td align="center"><b>Examination</b></td>
+<td align="center"><b>Board</b></td>
+<td align="center"><b>Percentage</b></td>
+<td align="center"><b>Year of Passing</b></td>
+</tr>
+<tr>
+<td>1</td>
+<td>Class X</td>
+<td><input type="text" name="ClassX_Board" maxlength="30" /></td>
+<td><input type="text" name="ClassX_Percentage" maxlength="30" /></td>
+<td><input type="text" name="ClassX_YrOfPassing" maxlength="30" /></td>
+</tr>
+ 
+<tr>
+<td>2</td>
+<td>Class XII</td>
+<td><input type="text" name="ClassXII_Board" maxlength="30" /></td>
+<td><input type="text" name="ClassXII_Percentage" maxlength="30" /></td>
+<td><input type="text" name="ClassXII_YrOfPassing" maxlength="30" /></td>
+</tr>
+ 
+<tr>
+<td>3</td>
+<td>Graduation</td>
+<td><input type="text" name="Graduation_Board" maxlength="30" /></td>
+<td><input type="text" name="Graduation_Percentage" maxlength="30" /></td>
+<td><input type="text" name="Graduation_YrOfPassing" maxlength="30" /></td>
+</tr>
+ 
+<tr>
+<td>4</td>
+<td>Masters</td>
+<td><input type="text" name="Masters_Board" maxlength="30" /></td>
+<td><input type="text" name="Masters_Percentage" maxlength="30" /></td>
+<td><input type="text" name="Masters_YrOfPassing" maxlength="30" /></td>
+</tr>
+ 
+<tr>
+<td></td>
+<td></td>
+<td align="center">(10 char max)</td>
+<td align="center">(upto 2 decimal)</td>
+</tr>
+</table>
+</td>
+        </tr>
+<!--        <tr>
+<td>COURSES<br/>APPLIED FOR</td>
+<td><input type="radio" name="Course_BCA" value="BCA" />BCA
+<input type="radio" name="Course_BCom" value="B.Com" />B.Com
+<input type="radio" name="Course_BSc" value="B.Sc" />B.Sc
+<input type="radio" name="Course_BA" value="B.A" />B.A
+Female <input type="radio" name="Gender" value="Female" />
+</td>
+</tr>-->
+    <tr>
+<td>Courses<br/>Applied For</td>
+<td>
+<input type="radio" name="Courses" value="BCA" />BCA 
+ <input type="radio" name="Courses" value="B.Com" />B.Com
+  <input type="radio" name="Courses" value="B.Sc" />B.Sc
+   <input type="radio" name="Courses" value="B.A" />B.A
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<input type="submit" value="Submit">
+<input type="reset" value="Reset">
+</td>
+</tr>
+    </table>
+</form>
+<style>
+    
+   h2{
+  font-family: Serif; 
+  font-size: 25pt;         
+  font-style: normal; 
+  font-weight: bold; 
+  color:SlateBlue;
+  text-align: center; 
+  text-decoration: underline
+}
+
+table{
+  font-family: Serif; 
+  color:white; 
+  font-size: 10pt; 
+  font-style: normal;
+  font-weight: bold;
+  text-align:; 
+  background-color: #666666; 
+  border:  5px #004d00
+}
+table.inner{
+  border: 2px
+} 
+    
+    
+</style>
+    </body>
+</html>
